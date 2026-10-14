@@ -14,10 +14,11 @@ export const metadata: Metadata = {
 };
 
 const ACCENT: Record<string, string> = {
-  brand: 'text-brand-300',
-  saffron: 'text-saffron',
+  // /work cards sit on paper, so these are the light-surface tints.
+  brand: 'text-brand-600',
+  saffron: 'text-saffron-700',
   jade: 'text-jade',
-  ink: 'text-ink-200',
+  ink: 'text-ink-600',
 };
 
 export default function WorkPage() {
@@ -118,7 +119,7 @@ export default function WorkPage() {
 
                   {study.quote && (
                     <figure className="mt-8 rounded-2xl bg-bone p-6">
-                      <span aria-hidden="true" className="font-serif text-3xl leading-none text-brand-200">
+                      <span aria-hidden="true" className="font-serif text-3xl leading-none text-brand-500">
                         &ldquo;
                       </span>
                       <blockquote className="mt-1 text-[0.9375rem] leading-relaxed text-ink-800">

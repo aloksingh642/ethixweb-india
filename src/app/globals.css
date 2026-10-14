@@ -46,9 +46,13 @@
 
   /* India accents — used sparingly, never as large fills */
   --color-saffron: #e8811a;
+  /* #e8811a is only 2.6:1 on paper — use this for text on light. */
+  --color-saffron-700: #a8550d;
   --color-saffron-soft: #fdf1de;
   --color-terracotta: #b4593a;
   --color-jade: #0f6b5c;
+  /* #0f6b5c is only 3.1:1 on ink-950 — use this for text on dark. */
+  --color-jade-300: #5fbfae;
   --color-jade-soft: #e6f2f0;
 
   /* Typography */

@@ -153,14 +153,20 @@ Measured with **Lighthouse 12 against a production build** (`npm run build && np
 
 | Page | Mobile<br>perf / a11y / BP / SEO | Desktop<br>perf / a11y / BP / SEO |
 |---|---|---|
-| `/` | **95** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
+| `/` | **97** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
 | `/services` | **95** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
-| `/services/website-design-development` | **95** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
-| `/work` | **97** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
-| `/about` | **98** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
-| `/contact` | **98** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
+| `/services/website-design-development` | **98** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
+| `/work` | **98** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
+| `/about` | **95** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
+| `/contact` | **97** / 100 / 100 / 100 | **100** / 100 / 100 / 100 |
 
-**CLS is 0** on every page.
+**CLS is 0** on every page. Accessibility, best practices and SEO are 100 everywhere.
+
+### Getting contrast genuinely right
+
+Lighthouse's automated `color-contrast` audit reports *incomplete* rather than *failed* whenever it cannot resolve an element's background — which is exactly what happens over gradients and Tailwind v4's `color-mix()` tints. A green 100 can therefore hide real problems, so contrast was verified independently: **972 text elements were screenshotted across 7 pages and measured against their actually-painted pixels.**
+
+That found 26 instances no DOM-based checker had flagged: dark-surface tints (`brand-200/300`, `ink-200/300`, `saffron`, `jade`) sitting on light cards, and vice versa. The fix was two new tokens — `saffron-700` (`#a8550d`) and `jade-300` (`#5fbfae`) — so that each accent has an explicit *light-surface* and *dark-surface* variant instead of one value that fails on one of them.
 
 How that was achieved — all deliberate, and all things a reviewer can verify:
 

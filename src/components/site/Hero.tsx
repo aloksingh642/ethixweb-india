@@ -65,7 +65,7 @@ export function Hero() {
             <a href={contact.phoneHref} className="tnum font-semibold text-ink-900 hover:text-brand-600">
               {contact.phone}
             </a>
-            <span className="text-ink-300">·</span>
+            <span className="text-ink-400">·</span>
             Mon–Sat, 9:30 AM – 7:00 PM IST
           </p>
         </div>

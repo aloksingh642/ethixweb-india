@@ -36,7 +36,7 @@ export function ServiceCategories() {
                   className="group flex h-full flex-col rounded-2xl border border-ink-100 bg-bone p-6 transition-all duration-300 hover:-translate-y-0.5 hover:border-brand-200 hover:bg-white hover:shadow-lift"
                 >
                   <div className="flex items-start justify-between">
-                    <span className="tnum text-xs font-bold tracking-[0.14em] text-brand-300">
+                    <span className="tnum text-xs font-bold tracking-[0.14em] text-brand-600">
                       {category.index}
                     </span>
                     <span className="rounded-full bg-white px-2.5 py-1 text-[0.6875rem] font-semibold text-ink-500 ring-1 ring-inset ring-ink-100">

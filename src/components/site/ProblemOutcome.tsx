@@ -53,7 +53,7 @@ export function ProblemOutcome() {
               <Icon
                 name="arrow-right"
                 size={18}
-                className="hidden shrink-0 text-brand-300 sm:block"
+                className="hidden shrink-0 text-brand-500 sm:block"
               />
 
               <p className="flex items-start gap-2.5 text-[0.9375rem] font-medium text-ink-900">

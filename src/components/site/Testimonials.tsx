@@ -25,7 +25,7 @@ export function Testimonials() {
           >
             <figure className="flex h-full flex-col rounded-2xl border border-ink-100 bg-white p-6 shadow-soft">
               {/* Saffron quote mark — a small India accent, not decoration for its own sake. */}
-              <span aria-hidden="true" className="font-serif text-4xl leading-none text-brand-200">
+              <span aria-hidden="true" className="font-serif text-4xl leading-none text-brand-500">
                 &ldquo;
               </span>
               <blockquote className="mt-2 flex-1 text-[0.9375rem] leading-relaxed text-ink-700">

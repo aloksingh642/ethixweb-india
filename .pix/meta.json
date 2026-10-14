@@ -1,0 +1,8831 @@
+[
+ {
+  "name": "e0",
+  "color": "rgb(179, 169, 162)",
+  "size": 11,
+  "weight": 500,
+  "txt": "Onboarding new clients this quarter · Ja",
+  "page": "/",
+  "cls": "truncate"
+ },
+ {
+  "name": "e1",
+  "color": "rgb(213, 206, 200)",
+  "size": 11,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/",
+  "cls": "tnum"
+ },
+ {
+  "name": "e2",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Services",
+  "page": "/",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e3",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Work",
+  "page": "/",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e4",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "About",
+  "page": "/",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e5",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Contact",
+  "page": "/",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e6",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/",
+  "cls": "tnum"
+ },
+ {
+  "name": "e7",
+  "color": "rgb(209, 58, 64)",
+  "size": 76,
+  "weight": 800,
+  "txt": "tech.",
+  "page": "/",
+  "cls": "text-brand-500"
+ },
+ {
+  "name": "e8",
+  "color": "rgb(209, 58, 64)",
+  "size": 76,
+  "weight": 400,
+  "txt": "You run the business.",
+  "page": "/",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e9",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "A senior digital operations team for Ind",
+  "page": "/",
+  "cls": "lead mt-6 max-w-xl"
+ },
+ {
+  "name": "e10",
+  "color": "rgb(20, 17, 16)",
+  "size": 14,
+  "weight": 600,
+  "txt": "+91 98290 12345",
+  "page": "/",
+  "cls": "tnum font-semibold text-ink-900 hover:text-brand-600"
+ },
+ {
+  "name": "e11",
+  "color": "rgb(20, 17, 16)",
+  "size": 13,
+  "weight": 600,
+  "txt": "Ethixweb Ops",
+  "page": "/",
+  "cls": "text-[0.8125rem] font-semibold tracking-tight text-i"
+ },
+ {
+  "name": "e12",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Jaipur · IST",
+  "page": "/",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e13",
+  "color": "rgb(12, 10, 9)",
+  "size": 30,
+  "weight": 700,
+  "txt": "15:07:28",
+  "page": "/",
+  "cls": "tnum "
+ },
+ {
+  "name": "e14",
+  "color": "rgb(112, 102, 95)",
+  "size": 10,
+  "weight": 600,
+  "txt": "Enquiries today",
+  "page": "/",
+  "cls": "text-[0.625rem] font-semibold uppercase tracking-wid"
+ },
+ {
+  "name": "e15",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "14",
+  "page": "/",
+  "cls": "tnum mt-0.5 text-xl font-bold tracking-tight text-in"
+ },
+ {
+  "name": "e16",
+  "color": "rgb(112, 102, 95)",
+  "size": 10,
+  "weight": 600,
+  "txt": "Calls answered",
+  "page": "/",
+  "cls": "text-[0.625rem] font-semibold uppercase tracking-wid"
+ },
+ {
+  "name": "e17",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "27",
+  "page": "/",
+  "cls": "tnum mt-0.5 text-xl font-bold tracking-tight text-in"
+ },
+ {
+  "name": "e18",
+  "color": "rgb(112, 102, 95)",
+  "size": 10,
+  "weight": 600,
+  "txt": "Median reply",
+  "page": "/",
+  "cls": "text-[0.625rem] font-semibold uppercase tracking-wid"
+ },
+ {
+  "name": "e19",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "47m",
+  "page": "/",
+  "cls": "tnum mt-0.5 text-xl font-bold tracking-tight text-in"
+ },
+ {
+  "name": "e20",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Live enquiry pipeline",
+  "page": "/",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e21",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 600,
+  "txt": "15 open",
+  "page": "/",
+  "cls": "tnum text-xs font-semibold text-ink-600"
+ },
+ {
+  "name": "e22",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 400,
+  "txt": "New",
+  "page": "/",
+  "cls": "text-[0.6875rem] text-ink-500"
+ },
+ {
+  "name": "e23",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Contacted",
+  "page": "/",
+  "cls": "text-[0.6875rem] text-ink-500"
+ },
+ {
+  "name": "e24",
+  "color": "rgb(20, 17, 16)",
+  "size": 11,
+  "weight": 700,
+  "txt": "4",
+  "page": "/",
+  "cls": "tnum text-[0.6875rem] font-bold text-ink-900"
+ },
+ {
+  "name": "e25",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Qualified",
+  "page": "/",
+  "cls": "text-[0.6875rem] text-ink-500"
+ },
+ {
+  "name": "e26",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Won",
+  "page": "/",
+  "cls": "text-[0.6875rem] text-ink-500"
+ },
+ {
+  "name": "e27",
+  "color": "rgb(20, 17, 16)",
+  "size": 12,
+  "weight": 600,
+  "txt": "AI answered a missed call",
+  "page": "/",
+  "cls": "font-semibold text-ink-900"
+ },
+ {
+  "name": "e28",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Website",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e29",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "AI",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e30",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Growth",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e31",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Data",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e32",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Accessibility",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e33",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Support",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e34",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Website",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e35",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "AI",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e36",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Growth",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e37",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Data",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e38",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Accessibility",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e39",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Support",
+  "page": "/",
+  "cls": "whitespace-nowrap px-5 text-[0.9375rem] font-medium "
+ },
+ {
+  "name": "e40",
+  "color": "rgb(179, 34, 40)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Sound familiar?",
+  "page": "/",
+  "cls": "eyebrow "
+ },
+ {
+  "name": "e41",
+  "color": "rgb(209, 58, 64)",
+  "size": 48,
+  "weight": 400,
+  "txt": "every time",
+  "page": "/",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e42",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "We hear these on almost every first call",
+  "page": "/",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e43",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Where you are now",
+  "page": "/",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e44",
+  "color": "rgb(179, 34, 40)",
+  "size": 11,
+  "weight": 700,
+  "txt": "With Ethixweb",
+  "page": "/",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e45",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Calls ring out during the 11 AM rush",
+  "page": "/",
+  "cls": "line-through decoration-ink-200 decoration-1"
+ },
+ {
+  "name": "e46",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 400,
+  "txt": "The site takes 7 seconds on mobile",
+  "page": "/",
+  "cls": "line-through decoration-ink-200 decoration-1"
+ },
+ {
+  "name": "e47",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Invisible on Google for your own city",
+  "page": "/",
+  "cls": "line-through decoration-ink-200 decoration-1"
+ },
+ {
+  "name": "e48",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Enquiries vanish into a shared inbox",
+  "page": "/",
+  "cls": "line-through decoration-ink-200 decoration-1"
+ },
+ {
+  "name": "e49",
+  "color": "rgb(112, 102, 95)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Five vendors, five different excuses",
+  "page": "/",
+  "cls": "line-through decoration-ink-200 decoration-1"
+ },
+ {
+  "name": "e50",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Showing 5 of the issues we are asked abo",
+  "page": "/",
+  "cls": "mt-5 text-sm text-ink-400"
+ },
+ {
+  "name": "e51",
+  "color": "rgb(179, 34, 40)",
+  "size": 11,
+  "weight": 700,
+  "txt": "22 services, one team",
+  "page": "/",
+  "cls": "eyebrow "
+ },
+ {
+  "name": "e52",
+  "color": "rgb(209, 58, 64)",
+  "size": 48,
+  "weight": 400,
+  "txt": "under one roof",
+  "page": "/",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e53",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "From the website to the AI that answers ",
+  "page": "/",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e54",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "01",
+  "page": "/",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e55",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 600,
+  "txt": "4 services",
+  "page": "/",
+  "cls": "rounded-full bg-white px-2.5 py-1 text-[0.6875rem] f"
+ },
+ {
+  "name": "e56",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "Website",
+  "page": "/",
+  "cls": "mt-5 text-xl font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e57",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Fast, premium websites and stores built ",
+  "page": "/",
+  "cls": "mt-2 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e58",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "02",
+  "page": "/",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e59",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 600,
+  "txt": "4 services",
+  "page": "/",
+  "cls": "rounded-full bg-white px-2.5 py-1 text-[0.6875rem] f"
+ },
+ {
+  "name": "e60",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "AI",
+  "page": "/",
+  "cls": "mt-5 text-xl font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e61",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Agents that answer, qualify and book in ",
+  "page": "/",
+  "cls": "mt-2 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e62",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "03",
+  "page": "/",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e63",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 600,
+  "txt": "6 services",
+  "page": "/",
+  "cls": "rounded-full bg-white px-2.5 py-1 text-[0.6875rem] f"
+ },
+ {
+  "name": "e64",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "Growth",
+  "page": "/",
+  "cls": "mt-5 text-xl font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e65",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "SEO, ads and lifecycle working as one ac",
+  "page": "/",
+  "cls": "mt-2 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e66",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "04",
+  "page": "/",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e67",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 600,
+  "txt": "3 services",
+  "page": "/",
+  "cls": "rounded-full bg-white px-2.5 py-1 text-[0.6875rem] f"
+ },
+ {
+  "name": "e68",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "Data",
+  "page": "/",
+  "cls": "mt-5 text-xl font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e69",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Clean tracking, live dashboards and hone",
+  "page": "/",
+  "cls": "mt-2 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e70",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "05",
+  "page": "/",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e71",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 600,
+  "txt": "2 services",
+  "page": "/",
+  "cls": "rounded-full bg-white px-2.5 py-1 text-[0.6875rem] f"
+ },
+ {
+  "name": "e72",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "Accessibility",
+  "page": "/",
+  "cls": "mt-5 text-xl font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e73",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Inclusive builds reviewed against WCAG 2",
+  "page": "/",
+  "cls": "mt-2 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e74",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "06",
+  "page": "/",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e75",
+  "color": "rgb(109, 98, 91)",
+  "size": 11,
+  "weight": 600,
+  "txt": "3 services",
+  "page": "/",
+  "cls": "rounded-full bg-white px-2.5 py-1 text-[0.6875rem] f"
+ },
+ {
+  "name": "e76",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "Support",
+  "page": "/",
+  "cls": "mt-5 text-xl font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e77",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "A real team on call in IST — not a ticke",
+  "page": "/",
+  "cls": "mt-2 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e78",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "120+",
+  "page": "/",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e79",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Projects delivered",
+  "page": "/",
+  "cls": "mt-1.5 text-sm font-semibold text-brand-600"
+ },
+ {
+  "name": "e80",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Websites, apps and automations shipped",
+  "page": "/",
+  "cls": "mt-1 text-xs leading-relaxed text-ink-500"
+ },
+ {
+  "name": "e81",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "₹180 Cr+",
+  "page": "/",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e82",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Client revenue influenced",
+  "page": "/",
+  "cls": "mt-1.5 text-sm font-semibold text-brand-600"
+ },
+ {
+  "name": "e83",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Tracked through our analytics stack",
+  "page": "/",
+  "cls": "mt-1 text-xs leading-relaxed text-ink-500"
+ },
+ {
+  "name": "e84",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "9",
+  "page": "/",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e85",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Cities served across India",
+  "page": "/",
+  "cls": "mt-1.5 text-sm font-semibold text-brand-600"
+ },
+ {
+  "name": "e86",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Jaipur to Kochi, one team",
+  "page": "/",
+  "cls": "mt-1 text-xs leading-relaxed text-ink-500"
+ },
+ {
+  "name": "e87",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "47 min",
+  "page": "/",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e88",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Median response time",
+  "page": "/",
+  "cls": "mt-1.5 text-sm font-semibold text-brand-600"
+ },
+ {
+  "name": "e89",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "A real reply, 9:30–19:00 IST",
+  "page": "/",
+  "cls": "mt-1 text-xs leading-relaxed text-ink-500"
+ },
+ {
+  "name": "e90",
+  "color": "rgb(179, 34, 40)",
+  "size": 11,
+  "weight": 700,
+  "txt": "How we work",
+  "page": "/",
+  "cls": "eyebrow "
+ },
+ {
+  "name": "e91",
+  "color": "rgb(209, 58, 64)",
+  "size": 48,
+  "weight": 400,
+  "txt": "mystery",
+  "page": "/",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e92",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "You always know what is happening, what ",
+  "page": "/",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e93",
+  "color": "rgb(255, 255, 255)",
+  "size": 13,
+  "weight": 700,
+  "txt": "01",
+  "page": "/",
+  "cls": "tnum flex h-9 w-9 shrink-0 items-center justify-cent"
+ },
+ {
+  "name": "e94",
+  "color": "rgb(138, 24, 28)",
+  "size": 11,
+  "weight": 600,
+  "txt": "45 minutes",
+  "page": "/",
+  "cls": "rounded-full bg-brand-50 px-2.5 py-1 text-[0.6875rem"
+ },
+ {
+  "name": "e95",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Discovery call",
+  "page": "/",
+  "cls": "mt-4 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e96",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "We map what is actually broken — missed ",
+  "page": "/",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e97",
+  "color": "rgb(255, 255, 255)",
+  "size": 13,
+  "weight": 700,
+  "txt": "02",
+  "page": "/",
+  "cls": "tnum flex h-9 w-9 shrink-0 items-center justify-cent"
+ },
+ {
+  "name": "e98",
+  "color": "rgb(138, 24, 28)",
+  "size": 11,
+  "weight": 600,
+  "txt": "1 week",
+  "page": "/",
+  "cls": "rounded-full bg-brand-50 px-2.5 py-1 text-[0.6875rem"
+ },
+ {
+  "name": "e99",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Audit & roadmap",
+  "page": "/",
+  "cls": "mt-4 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e100",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "We audit the current stack end to end — ",
+  "page": "/",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e101",
+  "color": "rgb(255, 255, 255)",
+  "size": 13,
+  "weight": 700,
+  "txt": "03",
+  "page": "/",
+  "cls": "tnum flex h-9 w-9 shrink-0 items-center justify-cent"
+ },
+ {
+  "name": "e102",
+  "color": "rgb(138, 24, 28)",
+  "size": 11,
+  "weight": 600,
+  "txt": "2–8 weeks",
+  "page": "/",
+  "cls": "rounded-full bg-brand-50 px-2.5 py-1 text-[0.6875rem"
+ },
+ {
+  "name": "e103",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Build",
+  "page": "/",
+  "cls": "mt-4 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e104",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Design, build and integration in two-wee",
+  "page": "/",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e105",
+  "color": "rgb(255, 255, 255)",
+  "size": 13,
+  "weight": 700,
+  "txt": "04",
+  "page": "/",
+  "cls": "tnum flex h-9 w-9 shrink-0 items-center justify-cent"
+ },
+ {
+  "name": "e106",
+  "color": "rgb(138, 24, 28)",
+  "size": 11,
+  "weight": 600,
+  "txt": "1 week",
+  "page": "/",
+  "cls": "rounded-full bg-brand-50 px-2.5 py-1 text-[0.6875rem"
+ },
+ {
+  "name": "e107",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Launch",
+  "page": "/",
+  "cls": "mt-4 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e108",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Performance budgets, redirect maps, trac",
+  "page": "/",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e109",
+  "color": "rgb(255, 255, 255)",
+  "size": 13,
+  "weight": 700,
+  "txt": "05",
+  "page": "/",
+  "cls": "tnum flex h-9 w-9 shrink-0 items-center justify-cent"
+ },
+ {
+  "name": "e110",
+  "color": "rgb(138, 24, 28)",
+  "size": 11,
+  "weight": 600,
+  "txt": "Ongoing",
+  "page": "/",
+  "cls": "rounded-full bg-brand-50 px-2.5 py-1 text-[0.6875rem"
+ },
+ {
+  "name": "e111",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Run & improve",
+  "page": "/",
+  "cls": "mt-4 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e112",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Monthly reporting in plain language, con",
+  "page": "/",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e113",
+  "color": "rgb(179, 34, 40)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Featured work",
+  "page": "/",
+  "cls": "eyebrow "
+ },
+ {
+  "name": "e114",
+  "color": "rgb(209, 58, 64)",
+  "size": 48,
+  "weight": 400,
+  "txt": "showreels",
+  "page": "/",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e115",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Three engagements where the numbers move",
+  "page": "/",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e116",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Healthcare",
+  "page": "/",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e117",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Jaipur · 14 locations",
+  "page": "/",
+  "cls": "text-[0.6875rem] text-ink-dim"
+ },
+ {
+  "name": "e118",
+  "color": "rgb(255, 255, 255)",
+  "size": 24,
+  "weight": 700,
+  "txt": "Meraki Clinics",
+  "page": "/",
+  "cls": "mt-5 text-2xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e119",
+  "color": "rgb(240, 160, 163)",
+  "size": 15,
+  "weight": 500,
+  "txt": "71% fewer missed calls across 14 clinics",
+  "page": "/",
+  "cls": "mt-1.5 text-[0.9375rem] font-medium text-brand-300"
+ },
+ {
+  "name": "e120",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A multi-speciality clinic chain was losi",
+  "page": "/",
+  "cls": "mt-4 text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e121",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "−71%",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e122",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Missed call rate",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e123",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "+38%",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e124",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Appointments booked",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e125",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "−22%",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e126",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Patient no-shows",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e127",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "< 2s",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e128",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Time to answer",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e129",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Real Estate",
+  "page": "/",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e130",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Jaipur",
+  "page": "/",
+  "cls": "text-[0.6875rem] text-ink-dim"
+ },
+ {
+  "name": "e131",
+  "color": "rgb(255, 255, 255)",
+  "size": 24,
+  "weight": 700,
+  "txt": "Satyam Buildcon",
+  "page": "/",
+  "cls": "mt-5 text-2xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e132",
+  "color": "rgb(232, 129, 26)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Cost per qualified lead down 44%",
+  "page": "/",
+  "cls": "mt-1.5 text-[0.9375rem] font-medium text-saffron"
+ },
+ {
+  "name": "e133",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A residential developer was generating p",
+  "page": "/",
+  "cls": "mt-4 text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e134",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "−44%",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e135",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Cost per qualified lead",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e136",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "+62%",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e137",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Site visits booked",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e138",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "2.3×",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e139",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Return on ad spend",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e140",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "18 hrs",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e141",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Sales time saved weekly",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e142",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 700,
+  "txt": "D2C Grocery",
+  "page": "/",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e143",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Ahmedabad",
+  "page": "/",
+  "cls": "text-[0.6875rem] text-ink-dim"
+ },
+ {
+  "name": "e144",
+  "color": "rgb(255, 255, 255)",
+  "size": 24,
+  "weight": 700,
+  "txt": "Bharat Bazaar",
+  "page": "/",
+  "cls": "mt-5 text-2xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e145",
+  "color": "rgb(95, 191, 174)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Checkout conversion from 0.9% to 2.6%",
+  "page": "/",
+  "cls": "mt-1.5 text-[0.9375rem] font-medium text-jade-300"
+ },
+ {
+  "name": "e146",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A regional grocery brand with strong rep",
+  "page": "/",
+  "cls": "mt-4 text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e147",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "2.6%",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e148",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Checkout conversion (was 0.9%)",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e149",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "−34%",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e150",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Return-to-origin rate",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e151",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "1.4s",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e152",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Mobile load time (was 6.2s)",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e153",
+  "color": "rgb(255, 255, 255)",
+  "size": 20,
+  "weight": 700,
+  "txt": "+41%",
+  "page": "/",
+  "cls": "tnum text-xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e154",
+  "color": "rgb(164, 154, 147)",
+  "size": 11,
+  "weight": 400,
+  "txt": "Share of prepaid orders",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.6875rem] leading-snug text-ink-dim"
+ },
+ {
+  "name": "e155",
+  "color": "rgb(232, 129, 26)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Coverage",
+  "page": "/",
+  "cls": "eyebrow text-saffron"
+ },
+ {
+  "name": "e156",
+  "color": "rgb(240, 160, 163)",
+  "size": 48,
+  "weight": 400,
+  "txt": "One team, one clock.",
+  "page": "/",
+  "cls": "font-serif font-normal italic text-brand-300"
+ },
+ {
+  "name": "e157",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "We are headquartered in Jaipur and work ",
+  "page": "/",
+  "cls": "mt-5 text-[1.0625rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e158",
+  "color": "rgb(255, 255, 255)",
+  "size": 24,
+  "weight": 700,
+  "txt": "Jaipur",
+  "page": "/",
+  "cls": "mt-2 text-2xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e159",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Headquarters · Design, engineering and s",
+  "page": "/",
+  "cls": "mt-1 text-sm text-ink-300"
+ },
+ {
+  "name": "e160",
+  "color": "rgb(255, 255, 255)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Jaipur",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e161",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Delhi NCR",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e162",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Ahmedabad",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e163",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Mumbai",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e164",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Pune",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e165",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Bengaluru",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e166",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Chennai",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e167",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Hyderabad",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e168",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Kochi",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e169",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Kolkata",
+  "page": "/",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e170",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 700,
+  "txt": "15:07:38",
+  "page": "/",
+  "cls": "tnum "
+ },
+ {
+  "name": "e171",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 700,
+  "txt": "IST",
+  "page": "/",
+  "cls": "text-[0.625rem] font-bold uppercase tracking-[0.12em"
+ },
+ {
+  "name": "e172",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "15:07",
+  "page": "/",
+  "cls": "tnum mt-0.5 text-sm font-bold text-white"
+ },
+ {
+  "name": "e173",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 400,
+  "txt": "India",
+  "page": "/",
+  "cls": "text-[0.625rem] text-ink-dim"
+ },
+ {
+  "name": "e174",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 700,
+  "txt": "GST",
+  "page": "/",
+  "cls": "text-[0.625rem] font-bold uppercase tracking-[0.12em"
+ },
+ {
+  "name": "e175",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "13:37",
+  "page": "/",
+  "cls": "tnum mt-0.5 text-sm font-bold text-white"
+ },
+ {
+  "name": "e176",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 400,
+  "txt": "Gulf",
+  "page": "/",
+  "cls": "text-[0.625rem] text-ink-dim"
+ },
+ {
+  "name": "e177",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 700,
+  "txt": "BST",
+  "page": "/",
+  "cls": "text-[0.625rem] font-bold uppercase tracking-[0.12em"
+ },
+ {
+  "name": "e178",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "10:37",
+  "page": "/",
+  "cls": "tnum mt-0.5 text-sm font-bold text-white"
+ },
+ {
+  "name": "e179",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 400,
+  "txt": "UK",
+  "page": "/",
+  "cls": "text-[0.625rem] text-ink-dim"
+ },
+ {
+  "name": "e180",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 700,
+  "txt": "ET",
+  "page": "/",
+  "cls": "text-[0.625rem] font-bold uppercase tracking-[0.12em"
+ },
+ {
+  "name": "e181",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "05:37",
+  "page": "/",
+  "cls": "tnum mt-0.5 text-sm font-bold text-white"
+ },
+ {
+  "name": "e182",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 400,
+  "txt": "US East",
+  "page": "/",
+  "cls": "text-[0.625rem] text-ink-dim"
+ },
+ {
+  "name": "e183",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Working hours are 9:30 AM – 7:00 PM IST,",
+  "page": "/",
+  "cls": "mt-3 text-xs leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e184",
+  "color": "rgb(179, 34, 40)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Why Ethixweb",
+  "page": "/",
+  "cls": "eyebrow "
+ },
+ {
+  "name": "e185",
+  "color": "rgb(209, 58, 64)",
+  "size": 48,
+  "weight": 400,
+  "txt": "not an agency",
+  "page": "/",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e186",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Six things we do differently — and six r",
+  "page": "/",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e187",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "One accountable team, not five vendors",
+  "page": "/",
+  "cls": "mt-5 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e188",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Your website vendor blames the SEO agenc",
+  "page": "/",
+  "cls": "mt-2.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e189",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "IST-first, not timezone-tolerant",
+  "page": "/",
+  "cls": "mt-5 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e190",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Our working day is your working day. You",
+  "page": "/",
+  "cls": "mt-2.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e191",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Built for Indian infrastructure",
+  "page": "/",
+  "cls": "mt-5 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e192",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Every site is tested on mid-range Androi",
+  "page": "/",
+  "cls": "mt-2.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e193",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "India-compliant by default",
+  "page": "/",
+  "cls": "mt-5 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e194",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "GST-correct invoicing, DPDP Act 2023 dat",
+  "page": "/",
+  "cls": "mt-2.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e195",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Senior people on the work",
+  "page": "/",
+  "cls": "mt-5 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e196",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "The person who scopes your project is th",
+  "page": "/",
+  "cls": "mt-2.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e197",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "You own everything",
+  "page": "/",
+  "cls": "mt-5 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e198",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Code, design files, domain, analytics, a",
+  "page": "/",
+  "cls": "mt-2.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e199",
+  "color": "rgb(179, 34, 40)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Client reviews",
+  "page": "/",
+  "cls": "eyebrow "
+ },
+ {
+  "name": "e200",
+  "color": "rgb(209, 58, 64)",
+  "size": 48,
+  "weight": 400,
+  "txt": "across India",
+  "page": "/",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e201",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Real feedback from the people who sign t",
+  "page": "/",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e202",
+  "color": "rgb(209, 58, 64)",
+  "size": 36,
+  "weight": 400,
+  "txt": "“",
+  "page": "/",
+  "cls": "font-serif text-4xl leading-none text-brand-500"
+ },
+ {
+  "name": "e203",
+  "color": "rgb(12, 10, 9)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Dr. Ananya Rathore",
+  "page": "/",
+  "cls": "text-sm font-bold text-ink-950"
+ },
+ {
+  "name": "e204",
+  "color": "rgb(109, 98, 91)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Medical Director, Meraki Clinics · Jaipu",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.8125rem] text-ink-500"
+ },
+ {
+  "name": "e205",
+  "color": "rgb(209, 58, 64)",
+  "size": 36,
+  "weight": 400,
+  "txt": "“",
+  "page": "/",
+  "cls": "font-serif text-4xl leading-none text-brand-500"
+ },
+ {
+  "name": "e206",
+  "color": "rgb(12, 10, 9)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Rohit Satyam",
+  "page": "/",
+  "cls": "text-sm font-bold text-ink-950"
+ },
+ {
+  "name": "e207",
+  "color": "rgb(109, 98, 91)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Director, Satyam Buildcon · Jaipur",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.8125rem] text-ink-500"
+ },
+ {
+  "name": "e208",
+  "color": "rgb(209, 58, 64)",
+  "size": 36,
+  "weight": 400,
+  "txt": "“",
+  "page": "/",
+  "cls": "font-serif text-4xl leading-none text-brand-500"
+ },
+ {
+  "name": "e209",
+  "color": "rgb(12, 10, 9)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Meera Iyer",
+  "page": "/",
+  "cls": "text-sm font-bold text-ink-950"
+ },
+ {
+  "name": "e210",
+  "color": "rgb(109, 98, 91)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Founder, Bharat Bazaar · Ahmedabad",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.8125rem] text-ink-500"
+ },
+ {
+  "name": "e211",
+  "color": "rgb(209, 58, 64)",
+  "size": 36,
+  "weight": 400,
+  "txt": "“",
+  "page": "/",
+  "cls": "font-serif text-4xl leading-none text-brand-500"
+ },
+ {
+  "name": "e212",
+  "color": "rgb(12, 10, 9)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Vikram Nair",
+  "page": "/",
+  "cls": "text-sm font-bold text-ink-950"
+ },
+ {
+  "name": "e213",
+  "color": "rgb(109, 98, 91)",
+  "size": 13,
+  "weight": 400,
+  "txt": "COO, Pragati Skills · Bengaluru",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.8125rem] text-ink-500"
+ },
+ {
+  "name": "e214",
+  "color": "rgb(209, 58, 64)",
+  "size": 36,
+  "weight": 400,
+  "txt": "“",
+  "page": "/",
+  "cls": "font-serif text-4xl leading-none text-brand-500"
+ },
+ {
+  "name": "e215",
+  "color": "rgb(12, 10, 9)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Suresh Patel",
+  "page": "/",
+  "cls": "text-sm font-bold text-ink-950"
+ },
+ {
+  "name": "e216",
+  "color": "rgb(109, 98, 91)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Partner, Kaveri Textiles · Surat",
+  "page": "/",
+  "cls": "mt-0.5 text-[0.8125rem] text-ink-500"
+ },
+ {
+  "name": "e217",
+  "color": "rgb(179, 34, 40)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Questions",
+  "page": "/",
+  "cls": "eyebrow "
+ },
+ {
+  "name": "e218",
+  "color": "rgb(209, 58, 64)",
+  "size": 48,
+  "weight": 400,
+  "txt": "up front",
+  "page": "/",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e219",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "The things people ask before the first c",
+  "page": "/",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e227",
+  "color": "rgb(232, 129, 26)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Let's talk",
+  "page": "/",
+  "cls": "eyebrow text-saffron"
+ },
+ {
+  "name": "e228",
+  "color": "rgb(240, 160, 163)",
+  "size": 56,
+  "weight": 700,
+  "txt": "not working",
+  "page": "/",
+  "cls": "font-serif italic text-brand-300"
+ },
+ {
+  "name": "e229",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "A 45-minute call, no pitch deck. You lea",
+  "page": "/",
+  "cls": "mt-4 max-w-xl text-[1.0625rem] leading-relaxed text-"
+ },
+ {
+  "name": "e230",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A senior digital operations team for Ind",
+  "page": "/",
+  "cls": "mt-5 max-w-xs text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e231",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "+91 98290 12345",
+  "page": "/",
+  "cls": "tnum text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e232",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "hello@ethixweb.in",
+  "page": "/",
+  "cls": "text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e233",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Monday to Saturday · 9:30 AM – 7:00 PM I",
+  "page": "/",
+  "cls": "text-ink-300"
+ },
+ {
+  "name": "e234",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Services",
+  "page": "/",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e235",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Website Design & Development",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e236",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Ecommerce Development",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e237",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "AI Voice Receptionist",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e238",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "WhatsApp Automation",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e239",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "SEO for Indian Search",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e240",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "All 22 services",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e241",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Company",
+  "page": "/",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e242",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Our India story",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e243",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Featured work",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e244",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Start a project",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e245",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Client admin",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e246",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Navigate",
+  "page": "/",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e247",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Home",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e248",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Services",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e249",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Work",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e250",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "About",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e251",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Contact",
+  "page": "/",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e252",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "3rd Floor, City Mall Annexe, Bhagwan Das",
+  "page": "/",
+  "cls": "max-w-xl leading-relaxed"
+ },
+ {
+  "name": "e253",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GSTIN 08AAFCE1234K1ZG",
+  "page": "/",
+  "cls": "tnum"
+ },
+ {
+  "name": "e254",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "CIN U72900RJ2019PTC065432",
+  "page": "/",
+  "cls": "tnum"
+ },
+ {
+  "name": "e255",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "© 2026 Ethixweb Digital Operations Pvt. ",
+  "page": "/",
+  "cls": ""
+ },
+ {
+  "name": "e256",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GST invoices",
+  "page": "/",
+  "cls": ""
+ },
+ {
+  "name": "e257",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "UPI & NEFT accepted",
+  "page": "/",
+  "cls": ""
+ },
+ {
+  "name": "e258",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "DPDP Act 2023 ready",
+  "page": "/",
+  "cls": ""
+ },
+ {
+  "name": "e259",
+  "color": "rgb(179, 169, 162)",
+  "size": 11,
+  "weight": 500,
+  "txt": "Onboarding new clients this quarter · Ja",
+  "page": "/services",
+  "cls": "truncate"
+ },
+ {
+  "name": "e260",
+  "color": "rgb(213, 206, 200)",
+  "size": 11,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/services",
+  "cls": "tnum"
+ },
+ {
+  "name": "e261",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Home",
+  "page": "/services",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e262",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Work",
+  "page": "/services",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e263",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "About",
+  "page": "/services",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e264",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Contact",
+  "page": "/services",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e265",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/services",
+  "cls": "tnum"
+ },
+ {
+  "name": "e266",
+  "color": "rgb(209, 58, 64)",
+  "size": 56,
+  "weight": 400,
+  "txt": "One accountable team.",
+  "page": "/services",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e267",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Everything below is delivered by the sam",
+  "page": "/services",
+  "cls": "lead mt-5 max-w-2xl"
+ },
+ {
+  "name": "e268",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 500,
+  "txt": "4",
+  "page": "/services",
+  "cls": "tnum ml-1.5 text-xs text-ink-400"
+ },
+ {
+  "name": "e269",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 500,
+  "txt": "4",
+  "page": "/services",
+  "cls": "tnum ml-1.5 text-xs text-ink-400"
+ },
+ {
+  "name": "e270",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 500,
+  "txt": "6",
+  "page": "/services",
+  "cls": "tnum ml-1.5 text-xs text-ink-400"
+ },
+ {
+  "name": "e271",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 500,
+  "txt": "3",
+  "page": "/services",
+  "cls": "tnum ml-1.5 text-xs text-ink-400"
+ },
+ {
+  "name": "e272",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 500,
+  "txt": "2",
+  "page": "/services",
+  "cls": "tnum ml-1.5 text-xs text-ink-400"
+ },
+ {
+  "name": "e273",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 500,
+  "txt": "3",
+  "page": "/services",
+  "cls": "tnum ml-1.5 text-xs text-ink-400"
+ },
+ {
+  "name": "e274",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "01",
+  "page": "/services",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e275",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "Website",
+  "page": "/services",
+  "cls": "section-title mt-3"
+ },
+ {
+  "name": "e276",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Fast, premium websites and stores built ",
+  "page": "/services",
+  "cls": "lead mt-4"
+ },
+ {
+  "name": "e277",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "4 services in this group",
+  "page": "/services",
+  "cls": "mt-4 text-sm text-ink-400"
+ },
+ {
+  "name": "e278",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Website Design & Development",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e279",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Premium sites that load in under a secon",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e280",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 4–6 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e281",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Ecommerce Development",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e282",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Stores built for COD, UPI and prepaid — ",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e283",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 6–10 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e284",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Landing Pages & CRO",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e285",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Campaign pages that turn ad spend into q",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e286",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 1–2 weeks per page",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e287",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Website Maintenance & Care",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e288",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Updates, uptime, backups and security — ",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e289",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· Starts within 48 hours",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e290",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "02",
+  "page": "/services",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e291",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "AI",
+  "page": "/services",
+  "cls": "section-title mt-3"
+ },
+ {
+  "name": "e292",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Agents that answer, qualify and book in ",
+  "page": "/services",
+  "cls": "lead mt-4"
+ },
+ {
+  "name": "e293",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "4 services in this group",
+  "page": "/services",
+  "cls": "mt-4 text-sm text-ink-400"
+ },
+ {
+  "name": "e294",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "AI Voice Receptionist",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e295",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Every missed call answered, qualified an",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e296",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 2–3 weeks to launch",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e297",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "WhatsApp Business Automation",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e298",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "The channel Indian customers actually re",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e299",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 2–4 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e300",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "AI Website Chat Assistant",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e301",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Answers questions at 11pm and books the ",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e302",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 1–2 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e303",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Workflow Automation & Copilots",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e304",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Kill the copy-paste work your team does ",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e305",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 3–6 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e306",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "03",
+  "page": "/services",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e307",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "Growth",
+  "page": "/services",
+  "cls": "section-title mt-3"
+ },
+ {
+  "name": "e308",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "SEO, ads and lifecycle working as one ac",
+  "page": "/services",
+  "cls": "lead mt-4"
+ },
+ {
+  "name": "e309",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "6 services in this group",
+  "page": "/services",
+  "cls": "mt-4 text-sm text-ink-400"
+ },
+ {
+  "name": "e310",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "SEO for Indian Search",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e311",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Rank where your buyer is searching, in t",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e312",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· Ongoing, first movements in 8–12 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e313",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Local SEO & Google Business Profile",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e314",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Own the map pack for every city you actu",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e315",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· Ongoing, first results in 4–8 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e316",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Google Ads Management",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e317",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Stop paying for junk leads. Start measur",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e318",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· Setup in 2 weeks, optimisation ongoing",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e319",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Meta & Instagram Ads",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e320",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Creative that stops the scroll, measured",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e321",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· Setup in 2 weeks, optimisation ongoing",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e322",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Content Marketing & Copywriting",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e323",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Content that answers the question and cl",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e324",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· First pieces in 2–3 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e325",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Email, SMS & CRM Lifecycle",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e326",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Follow up properly, and the same leads c",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e327",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 3–4 weeks to first sequences live",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e328",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "04",
+  "page": "/services",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e329",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "Data",
+  "page": "/services",
+  "cls": "section-title mt-3"
+ },
+ {
+  "name": "e330",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Clean tracking, live dashboards and hone",
+  "page": "/services",
+  "cls": "lead mt-4"
+ },
+ {
+  "name": "e331",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "3 services in this group",
+  "page": "/services",
+  "cls": "mt-4 text-sm text-ink-400"
+ },
+ {
+  "name": "e332",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Analytics & GA4 Setup",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e333",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Trustworthy numbers, so decisions stop b",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e334",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 2–3 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e335",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Dashboards & Monthly Reporting",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e336",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "One page that answers \"is this working?\"",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e337",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 3–4 weeks to first dashboard",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e338",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "CRO & A/B Testing",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e339",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Get more from the traffic you are alread",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e340",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· Ongoing, first tests live in 3 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e341",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "05",
+  "page": "/services",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e342",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "Accessibility",
+  "page": "/services",
+  "cls": "section-title mt-3"
+ },
+ {
+  "name": "e343",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Inclusive builds reviewed against WCAG 2",
+  "page": "/services",
+  "cls": "lead mt-4"
+ },
+ {
+  "name": "e344",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "2 services in this group",
+  "page": "/services",
+  "cls": "mt-4 text-sm text-ink-400"
+ },
+ {
+  "name": "e345",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Accessibility Audit (WCAG 2.2)",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e346",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Know exactly where you stand, and what i",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e347",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 2–3 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e348",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Accessibility Remediation",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e349",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Actually fix it, and keep it fixed.",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e350",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· 4–8 weeks",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e351",
+  "color": "rgb(179, 34, 40)",
+  "size": 12,
+  "weight": 700,
+  "txt": "06",
+  "page": "/services",
+  "cls": "tnum text-xs font-bold tracking-[0.14em] text-brand-"
+ },
+ {
+  "name": "e352",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "Support",
+  "page": "/services",
+  "cls": "section-title mt-3"
+ },
+ {
+  "name": "e353",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "A real team on call in IST — not a ticke",
+  "page": "/services",
+  "cls": "lead mt-4"
+ },
+ {
+  "name": "e354",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "3 services in this group",
+  "page": "/services",
+  "cls": "mt-4 text-sm text-ink-400"
+ },
+ {
+  "name": "e355",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Dedicated Support Desk",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e356",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A named human who knows your business, o",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e357",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· Starts in 48 hours",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e358",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Content & Update Service",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e359",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Send the change on WhatsApp. It ships to",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e360",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· Starts in 48 hours",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e361",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "API & Integration Maintenance",
+  "page": "/services",
+  "cls": "text-[1.0625rem] font-bold leading-snug tracking-tig"
+ },
+ {
+  "name": "e362",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Your integrations keep working when the ",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e363",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "· Onboarding in 1 week",
+  "page": "/services",
+  "cls": "ml-1 font-normal text-ink-400"
+ },
+ {
+  "name": "e364",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "How we price",
+  "page": "/services",
+  "cls": "section-title"
+ },
+ {
+  "name": "e365",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Three ways to work with us. Everything i",
+  "page": "/services",
+  "cls": "lead mt-5 max-w-2xl"
+ },
+ {
+  "name": "e366",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Fixed-price project",
+  "page": "/services",
+  "cls": "text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e367",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "One scope, one price, milestone payments",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e368",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 700,
+  "txt": "from ₹85,000",
+  "page": "/services",
+  "cls": "mt-4 text-sm font-bold text-brand-600"
+ },
+ {
+  "name": "e369",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Monthly retainer",
+  "page": "/services",
+  "cls": "text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e370",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Ongoing SEO, ads, support and improvemen",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e371",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 700,
+  "txt": "from ₹12,000/mo",
+  "page": "/services",
+  "cls": "mt-4 text-sm font-bold text-brand-600"
+ },
+ {
+  "name": "e372",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "Audit & roadmap",
+  "page": "/services",
+  "cls": "text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e373",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A one-week deep dive that ends in a cost",
+  "page": "/services",
+  "cls": "mt-2 flex-1 text-[0.875rem] leading-relaxed text-ink"
+ },
+ {
+  "name": "e374",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 700,
+  "txt": "from ₹35,000",
+  "page": "/services",
+  "cls": "mt-4 text-sm font-bold text-brand-600"
+ },
+ {
+  "name": "e375",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Ask for a fixed quote →",
+  "page": "/services",
+  "cls": "font-semibold text-brand-600 hover:text-brand-700"
+ },
+ {
+  "name": "e376",
+  "color": "rgb(255, 255, 255)",
+  "size": 48,
+  "weight": 700,
+  "txt": "Not sure which of these you need?",
+  "page": "/services",
+  "cls": "section-title relative text-white"
+ },
+ {
+  "name": "e377",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "That is the most common question we get,",
+  "page": "/services",
+  "cls": "mx-auto mt-4 max-w-xl text-[1.0625rem] leading-relax"
+ },
+ {
+  "name": "e378",
+  "color": "rgb(232, 129, 26)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Let's talk",
+  "page": "/services",
+  "cls": "eyebrow text-saffron"
+ },
+ {
+  "name": "e379",
+  "color": "rgb(240, 160, 163)",
+  "size": 56,
+  "weight": 700,
+  "txt": "not working",
+  "page": "/services",
+  "cls": "font-serif italic text-brand-300"
+ },
+ {
+  "name": "e380",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "A 45-minute call, no pitch deck. You lea",
+  "page": "/services",
+  "cls": "mt-4 max-w-xl text-[1.0625rem] leading-relaxed text-"
+ },
+ {
+  "name": "e381",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A senior digital operations team for Ind",
+  "page": "/services",
+  "cls": "mt-5 max-w-xs text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e382",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "+91 98290 12345",
+  "page": "/services",
+  "cls": "tnum text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e383",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "hello@ethixweb.in",
+  "page": "/services",
+  "cls": "text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e384",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Monday to Saturday · 9:30 AM – 7:00 PM I",
+  "page": "/services",
+  "cls": "text-ink-300"
+ },
+ {
+  "name": "e385",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Services",
+  "page": "/services",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e386",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Website Design & Development",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e387",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Ecommerce Development",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e388",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "AI Voice Receptionist",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e389",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "WhatsApp Automation",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e390",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "SEO for Indian Search",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e391",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "All 22 services",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e392",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Company",
+  "page": "/services",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e393",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Our India story",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e394",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Featured work",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e395",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Start a project",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e396",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Client admin",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e397",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Navigate",
+  "page": "/services",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e398",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Home",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e399",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Services",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e400",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Work",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e401",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "About",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e402",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Contact",
+  "page": "/services",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e403",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "3rd Floor, City Mall Annexe, Bhagwan Das",
+  "page": "/services",
+  "cls": "max-w-xl leading-relaxed"
+ },
+ {
+  "name": "e404",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GSTIN 08AAFCE1234K1ZG",
+  "page": "/services",
+  "cls": "tnum"
+ },
+ {
+  "name": "e405",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "CIN U72900RJ2019PTC065432",
+  "page": "/services",
+  "cls": "tnum"
+ },
+ {
+  "name": "e406",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "© 2026 Ethixweb Digital Operations Pvt. ",
+  "page": "/services",
+  "cls": ""
+ },
+ {
+  "name": "e407",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GST invoices",
+  "page": "/services",
+  "cls": ""
+ },
+ {
+  "name": "e408",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "UPI & NEFT accepted",
+  "page": "/services",
+  "cls": ""
+ },
+ {
+  "name": "e409",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "DPDP Act 2023 ready",
+  "page": "/services",
+  "cls": ""
+ },
+ {
+  "name": "e410",
+  "color": "rgb(179, 169, 162)",
+  "size": 11,
+  "weight": 500,
+  "txt": "Onboarding new clients this quarter · Ja",
+  "page": "/work",
+  "cls": "truncate"
+ },
+ {
+  "name": "e411",
+  "color": "rgb(213, 206, 200)",
+  "size": 11,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/work",
+  "cls": "tnum"
+ },
+ {
+  "name": "e412",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Home",
+  "page": "/work",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e413",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Services",
+  "page": "/work",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e414",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "About",
+  "page": "/work",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e415",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Contact",
+  "page": "/work",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e416",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/work",
+  "cls": "tnum"
+ },
+ {
+  "name": "e417",
+  "color": "rgb(209, 58, 64)",
+  "size": 56,
+  "weight": 400,
+  "txt": "Six numbers that moved.",
+  "page": "/work",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e418",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Every figure below comes from the client",
+  "page": "/work",
+  "cls": "lead mt-5 max-w-2xl"
+ },
+ {
+  "name": "e419",
+  "color": "rgb(138, 24, 28)",
+  "size": 12,
+  "weight": 600,
+  "txt": "Healthcare",
+  "page": "/work",
+  "cls": "rounded-full bg-brand-50 px-3 py-1 text-xs font-semi"
+ },
+ {
+  "name": "e420",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Jaipur · 14 locations",
+  "page": "/work",
+  "cls": "text-xs text-ink-400"
+ },
+ {
+  "name": "e421",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "Meraki Clinics",
+  "page": "/work",
+  "cls": "mt-5 text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e422",
+  "color": "rgb(179, 34, 40)",
+  "size": 18,
+  "weight": 600,
+  "txt": "71% fewer missed calls across 14 clinics",
+  "page": "/work",
+  "cls": "mt-2 text-lg font-semibold text-brand-600"
+ },
+ {
+  "name": "e423",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "−71%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e424",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Missed call rate",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e425",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "+38%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e426",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Appointments booked",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e427",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "−22%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e428",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Patient no-shows",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e429",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "< 2s",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e430",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Time to answer",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e431",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "AI voice receptionist",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e432",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "WhatsApp automation",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e433",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Dashboards & reporting",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e434",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "The problem",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e435",
+  "color": "rgb(50, 43, 40)",
+  "size": 17,
+  "weight": 400,
+  "txt": "Front-desk staff at 14 locations could n",
+  "page": "/work",
+  "cls": "mt-2 text-[1.0625rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e436",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "What we did",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e437",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "1",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e438",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Call analytics across all 14 numbers to ",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e439",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "2",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e440",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "AI voice receptionist in Hindi, English ",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e441",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "3",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e442",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Real-time calendar integration so the ag",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e443",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "4",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e444",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "WhatsApp confirmation and reminders 24 h",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e445",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "5",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e446",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Unified dashboard showing missed calls, ",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e447",
+  "color": "rgb(209, 58, 64)",
+  "size": 30,
+  "weight": 400,
+  "txt": "“",
+  "page": "/work",
+  "cls": "font-serif text-3xl leading-none text-brand-500"
+ },
+ {
+  "name": "e448",
+  "color": "rgb(12, 10, 9)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Dr. Ananya Rathore",
+  "page": "/work",
+  "cls": "font-bold text-ink-950"
+ },
+ {
+  "name": "e449",
+  "color": "rgb(109, 98, 91)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Medical Director, Meraki Clinics",
+  "page": "/work",
+  "cls": "block text-ink-500"
+ },
+ {
+  "name": "e450",
+  "color": "rgb(138, 24, 28)",
+  "size": 12,
+  "weight": 600,
+  "txt": "Real Estate",
+  "page": "/work",
+  "cls": "rounded-full bg-brand-50 px-3 py-1 text-xs font-semi"
+ },
+ {
+  "name": "e451",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Jaipur",
+  "page": "/work",
+  "cls": "text-xs text-ink-400"
+ },
+ {
+  "name": "e452",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "Satyam Buildcon",
+  "page": "/work",
+  "cls": "mt-5 text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e453",
+  "color": "rgb(168, 85, 13)",
+  "size": 18,
+  "weight": 600,
+  "txt": "Cost per qualified lead down 44%",
+  "page": "/work",
+  "cls": "mt-2 text-lg font-semibold text-saffron-700"
+ },
+ {
+  "name": "e454",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "−44%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e455",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Cost per qualified lead",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e456",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "+62%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e457",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Site visits booked",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e458",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "2.3×",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e459",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Return on ad spend",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e460",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "18 hrs",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e461",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Sales time saved weekly",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e462",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Google Ads",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e463",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Landing pages & CRO",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e464",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Analytics & GA4",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e465",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "The problem",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e466",
+  "color": "rgb(50, 43, 40)",
+  "size": 17,
+  "weight": 400,
+  "txt": "Google Ads was producing a high volume o",
+  "page": "/work",
+  "cls": "mt-2 text-[1.0625rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e467",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "What we did",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e468",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "1",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e469",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Rebuilt the account around intent cluste",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e470",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "2",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e471",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Built locality-specific landing pages ma",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e472",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "3",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e473",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Added budget and timeline qualification ",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e474",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "4",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e475",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Call tracking with outcome tagging on ev",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e476",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "5",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e477",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Offline conversion import so Google opti",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e478",
+  "color": "rgb(209, 58, 64)",
+  "size": 30,
+  "weight": 400,
+  "txt": "“",
+  "page": "/work",
+  "cls": "font-serif text-3xl leading-none text-brand-500"
+ },
+ {
+  "name": "e479",
+  "color": "rgb(12, 10, 9)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Rohit Satyam",
+  "page": "/work",
+  "cls": "font-bold text-ink-950"
+ },
+ {
+  "name": "e480",
+  "color": "rgb(109, 98, 91)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Director, Satyam Buildcon",
+  "page": "/work",
+  "cls": "block text-ink-500"
+ },
+ {
+  "name": "e481",
+  "color": "rgb(138, 24, 28)",
+  "size": 12,
+  "weight": 600,
+  "txt": "D2C Grocery",
+  "page": "/work",
+  "cls": "rounded-full bg-brand-50 px-3 py-1 text-xs font-semi"
+ },
+ {
+  "name": "e482",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Ahmedabad",
+  "page": "/work",
+  "cls": "text-xs text-ink-400"
+ },
+ {
+  "name": "e483",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "Bharat Bazaar",
+  "page": "/work",
+  "cls": "mt-5 text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e484",
+  "color": "rgb(15, 107, 92)",
+  "size": 18,
+  "weight": 600,
+  "txt": "Checkout conversion from 0.9% to 2.6%",
+  "page": "/work",
+  "cls": "mt-2 text-lg font-semibold text-jade"
+ },
+ {
+  "name": "e485",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "2.6%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e486",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Checkout conversion (was 0.9%)",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e487",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "−34%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e488",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Return-to-origin rate",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e489",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "1.4s",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e490",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Mobile load time (was 6.2s)",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e491",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "+41%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e492",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Share of prepaid orders",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e493",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Ecommerce development",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e494",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "CRO",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e495",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "WhatsApp automation",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e496",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "The problem",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e497",
+  "color": "rgb(50, 43, 40)",
+  "size": 17,
+  "weight": 400,
+  "txt": "Nearly all traffic was mobile and most o",
+  "page": "/work",
+  "cls": "mt-2 text-[1.0625rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e498",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "What we did",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e499",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "1",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e500",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Headless Next.js rebuild with a sub-2-se",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e501",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "2",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e502",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "UPI-first checkout with Razorpay, plus C",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e503",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "3",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e504",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Pin-code serviceability checks before ch",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e505",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "4",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e506",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Address validation and WhatsApp order co",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e507",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "5",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e508",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Catalogue restructure and search relevan",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e509",
+  "color": "rgb(138, 24, 28)",
+  "size": 12,
+  "weight": 600,
+  "txt": "Manufacturing & Exports",
+  "page": "/work",
+  "cls": "rounded-full bg-brand-50 px-3 py-1 text-xs font-semi"
+ },
+ {
+  "name": "e510",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Surat",
+  "page": "/work",
+  "cls": "text-xs text-ink-400"
+ },
+ {
+  "name": "e511",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "Kaveri Textiles",
+  "page": "/work",
+  "cls": "mt-5 text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e512",
+  "color": "rgb(76, 66, 61)",
+  "size": 18,
+  "weight": 600,
+  "txt": "Organic export enquiries up 3.4×",
+  "page": "/work",
+  "cls": "mt-2 text-lg font-semibold text-ink-600"
+ },
+ {
+  "name": "e513",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "3.4×",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e514",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Organic enquiries",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e515",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "11",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e516",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "New export markets",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e517",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "95+",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e518",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "PageSpeed mobile score",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e519",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "6 mo",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e520",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Time to compounding growth",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e521",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "SEO for Indian Search",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e522",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Website design & development",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e523",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Dashboards & reporting",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e524",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "The problem",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e525",
+  "color": "rgb(50, 43, 40)",
+  "size": 17,
+  "weight": 400,
+  "txt": "The business had deep capability and no ",
+  "page": "/work",
+  "cls": "mt-2 text-[1.0625rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e526",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "What we did",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e527",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "1",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e528",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Technical SEO rebuild: crawl fixes, sche",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e529",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "2",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e530",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Specification-led content architecture b",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e531",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "3",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e532",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Product and certification pages with str",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e533",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "4",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e534",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Digital PR in trade publications to buil",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e535",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "5",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e536",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Enquiry tracking so we could prove which",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e537",
+  "color": "rgb(138, 24, 28)",
+  "size": 12,
+  "weight": 600,
+  "txt": "Education",
+  "page": "/work",
+  "cls": "rounded-full bg-brand-50 px-3 py-1 text-xs font-semi"
+ },
+ {
+  "name": "e538",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Bengaluru",
+  "page": "/work",
+  "cls": "text-xs text-ink-400"
+ },
+ {
+  "name": "e539",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "Pragati Skills",
+  "page": "/work",
+  "cls": "mt-5 text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e540",
+  "color": "rgb(179, 34, 40)",
+  "size": 18,
+  "weight": 600,
+  "txt": "Counsellor response time: 9 hours to 11 ",
+  "page": "/work",
+  "cls": "mt-2 text-lg font-semibold text-brand-600"
+ },
+ {
+  "name": "e541",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "11 min",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e542",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Median response (was 9 hrs)",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e543",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "+52%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e544",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Lead-to-enrolment rate",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e545",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "−31%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e546",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Admissions cycle length",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e547",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "6→1",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e548",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Inboxes consolidated",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e549",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "WhatsApp automation",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e550",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Email, SMS & CRM lifecycle",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e551",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Dashboards & reporting",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e552",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "The problem",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e553",
+  "color": "rgb(50, 43, 40)",
+  "size": 17,
+  "weight": 400,
+  "txt": "Leads arrived from six channels into thr",
+  "page": "/work",
+  "cls": "mt-2 text-[1.0625rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e554",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "What we did",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e555",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "1",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e556",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Consolidated all enquiry sources into on",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e557",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "2",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e558",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "WhatsApp chatbot for instant qualificati",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e559",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "3",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e560",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Automated counsellor assignment with res",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e561",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "4",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e562",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Lifecycle nurture: drip sequences for th",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e563",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "5",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e564",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Attribution dashboards connecting channe",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e565",
+  "color": "rgb(138, 24, 28)",
+  "size": 12,
+  "weight": 600,
+  "txt": "BFSI",
+  "page": "/work",
+  "cls": "rounded-full bg-brand-50 px-3 py-1 text-xs font-semi"
+ },
+ {
+  "name": "e566",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Mumbai",
+  "page": "/work",
+  "cls": "text-xs text-ink-400"
+ },
+ {
+  "name": "e567",
+  "color": "rgb(12, 10, 9)",
+  "size": 36,
+  "weight": 800,
+  "txt": "FinTrust Credit",
+  "page": "/work",
+  "cls": "mt-5 text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e568",
+  "color": "rgb(15, 107, 92)",
+  "size": 18,
+  "weight": 600,
+  "txt": "A lending journey that passes audit and ",
+  "page": "/work",
+  "cls": "mt-2 text-lg font-semibold text-jade"
+ },
+ {
+  "name": "e569",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "+47%",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e570",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Application completion",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e571",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "AA",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e572",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "WCAG 2.2 conformance",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e573",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "0",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e574",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Critical audit findings",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e575",
+  "color": "rgb(12, 10, 9)",
+  "size": 24,
+  "weight": 800,
+  "txt": "2.1×",
+  "page": "/work",
+  "cls": "tnum text-2xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e576",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Qualified applications",
+  "page": "/work",
+  "cls": "mt-1 text-xs leading-snug text-ink-500"
+ },
+ {
+  "name": "e577",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Accessibility remediation",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e578",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "CRO",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e579",
+  "color": "rgb(76, 66, 61)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Web application development",
+  "page": "/work",
+  "cls": "rounded-full bg-bone px-3 py-1 text-xs font-medium t"
+ },
+ {
+  "name": "e580",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "The problem",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e581",
+  "color": "rgb(50, 43, 40)",
+  "size": 17,
+  "weight": 400,
+  "txt": "The application funnel dropped 74% of us",
+  "page": "/work",
+  "cls": "mt-2 text-[1.0625rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e582",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "What we did",
+  "page": "/work",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e583",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "1",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e584",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Funnel analysis to find the four steps c",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e585",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "2",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e586",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Rebuilt forms with progressive disclosur",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e587",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "3",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e588",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "WCAG 2.2 AA remediation, verified with s",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e589",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "4",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e590",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "DPDP Act 2023 consent flows with proper ",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e591",
+  "color": "rgb(255, 255, 255)",
+  "size": 10,
+  "weight": 700,
+  "txt": "5",
+  "page": "/work",
+  "cls": "tnum mt-0.5 flex h-5 w-5 shrink-0 items-center justi"
+ },
+ {
+  "name": "e592",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Automated accessibility and consent chec",
+  "page": "/work",
+  "cls": "text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e593",
+  "color": "rgb(255, 255, 255)",
+  "size": 48,
+  "weight": 700,
+  "txt": "Your case study next?",
+  "page": "/work",
+  "cls": "section-title relative text-white"
+ },
+ {
+  "name": "e594",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "We take on a small number of new engagem",
+  "page": "/work",
+  "cls": "mx-auto mt-4 max-w-xl text-[1.0625rem] leading-relax"
+ },
+ {
+  "name": "e595",
+  "color": "rgb(232, 129, 26)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Let's talk",
+  "page": "/work",
+  "cls": "eyebrow text-saffron"
+ },
+ {
+  "name": "e596",
+  "color": "rgb(240, 160, 163)",
+  "size": 56,
+  "weight": 700,
+  "txt": "not working",
+  "page": "/work",
+  "cls": "font-serif italic text-brand-300"
+ },
+ {
+  "name": "e597",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "A 45-minute call, no pitch deck. You lea",
+  "page": "/work",
+  "cls": "mt-4 max-w-xl text-[1.0625rem] leading-relaxed text-"
+ },
+ {
+  "name": "e598",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A senior digital operations team for Ind",
+  "page": "/work",
+  "cls": "mt-5 max-w-xs text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e599",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "+91 98290 12345",
+  "page": "/work",
+  "cls": "tnum text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e600",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "hello@ethixweb.in",
+  "page": "/work",
+  "cls": "text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e601",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Monday to Saturday · 9:30 AM – 7:00 PM I",
+  "page": "/work",
+  "cls": "text-ink-300"
+ },
+ {
+  "name": "e602",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Services",
+  "page": "/work",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e603",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Website Design & Development",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e604",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Ecommerce Development",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e605",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "AI Voice Receptionist",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e606",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "WhatsApp Automation",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e607",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "SEO for Indian Search",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e608",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "All 22 services",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e609",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Company",
+  "page": "/work",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e610",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Our India story",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e611",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Featured work",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e612",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Start a project",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e613",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Client admin",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e614",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Navigate",
+  "page": "/work",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e615",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Home",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e616",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Services",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e617",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Work",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e618",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "About",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e619",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Contact",
+  "page": "/work",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e620",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "3rd Floor, City Mall Annexe, Bhagwan Das",
+  "page": "/work",
+  "cls": "max-w-xl leading-relaxed"
+ },
+ {
+  "name": "e621",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GSTIN 08AAFCE1234K1ZG",
+  "page": "/work",
+  "cls": "tnum"
+ },
+ {
+  "name": "e622",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "CIN U72900RJ2019PTC065432",
+  "page": "/work",
+  "cls": "tnum"
+ },
+ {
+  "name": "e623",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "© 2026 Ethixweb Digital Operations Pvt. ",
+  "page": "/work",
+  "cls": ""
+ },
+ {
+  "name": "e624",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GST invoices",
+  "page": "/work",
+  "cls": ""
+ },
+ {
+  "name": "e625",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "UPI & NEFT accepted",
+  "page": "/work",
+  "cls": ""
+ },
+ {
+  "name": "e626",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "DPDP Act 2023 ready",
+  "page": "/work",
+  "cls": ""
+ },
+ {
+  "name": "e627",
+  "color": "rgb(179, 169, 162)",
+  "size": 11,
+  "weight": 500,
+  "txt": "Onboarding new clients this quarter · Ja",
+  "page": "/about",
+  "cls": "truncate"
+ },
+ {
+  "name": "e628",
+  "color": "rgb(213, 206, 200)",
+  "size": 11,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/about",
+  "cls": "tnum"
+ },
+ {
+  "name": "e629",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Home",
+  "page": "/about",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e630",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Services",
+  "page": "/about",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e631",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Work",
+  "page": "/about",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e632",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Contact",
+  "page": "/about",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e633",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/about",
+  "cls": "tnum"
+ },
+ {
+  "name": "e634",
+  "color": "rgb(209, 58, 64)",
+  "size": 56,
+  "weight": 400,
+  "txt": "We rebuilt it here.",
+  "page": "/about",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e635",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Ethixweb began as a digital operations t",
+  "page": "/about",
+  "cls": "lead mt-6 max-w-2xl"
+ },
+ {
+  "name": "e636",
+  "color": "rgb(34, 29, 27)",
+  "size": 20,
+  "weight": 400,
+  "txt": "The pattern was always the same. A found",
+  "page": "/about",
+  "cls": "text-xl leading-relaxed text-ink-800"
+ },
+ {
+  "name": "e637",
+  "color": "rgb(20, 17, 16)",
+  "size": 17,
+  "weight": 600,
+  "txt": "“Can someone call me at 6 PM my time?”",
+  "page": "/about",
+  "cls": "font-semibold text-ink-900"
+ },
+ {
+  "name": "e638",
+  "color": "rgb(20, 17, 16)",
+  "size": 17,
+  "weight": 600,
+  "txt": "“Can you send a GST invoice and take UPI",
+  "page": "/about",
+  "cls": "font-semibold text-ink-900"
+ },
+ {
+  "name": "e639",
+  "color": "rgb(20, 17, 16)",
+  "size": 17,
+  "weight": 600,
+  "txt": "“Will this work on my customers' phones?",
+  "page": "/about",
+  "cls": "font-semibold text-ink-900"
+ },
+ {
+  "name": "e640",
+  "color": "rgb(76, 66, 61)",
+  "size": 17,
+  "weight": 400,
+  "txt": "Those were not objections to be handled.",
+  "page": "/about",
+  "cls": "mt-5 text-[1.0625rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e641",
+  "color": "rgb(76, 66, 61)",
+  "size": 17,
+  "weight": 400,
+  "txt": "What we did not change is the part that ",
+  "page": "/about",
+  "cls": "mt-5 text-[1.0625rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e642",
+  "color": "rgb(12, 10, 9)",
+  "size": 15,
+  "weight": 600,
+  "txt": "Ethixweb India",
+  "page": "/about",
+  "cls": "font-semibold text-ink-950"
+ },
+ {
+  "name": "e643",
+  "color": "rgb(240, 160, 163)",
+  "size": 11,
+  "weight": 700,
+  "txt": "India by the numbers",
+  "page": "/about",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e644",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "9",
+  "page": "/about",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e645",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Cities with active clients",
+  "page": "/about",
+  "cls": "mt-1 text-sm font-semibold text-ink-200"
+ },
+ {
+  "name": "e646",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Jaipur to Kochi",
+  "page": "/about",
+  "cls": "mt-0.5 text-xs text-ink-dim"
+ },
+ {
+  "name": "e647",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "5",
+  "page": "/about",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e648",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Languages supported",
+  "page": "/about",
+  "cls": "mt-1 text-sm font-semibold text-ink-200"
+ },
+ {
+  "name": "e649",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "English, Hindi, Hinglish + regional part",
+  "page": "/about",
+  "cls": "mt-0.5 text-xs text-ink-dim"
+ },
+ {
+  "name": "e650",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "78%",
+  "page": "/about",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e651",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Of Indian web traffic is mobile",
+  "page": "/about",
+  "cls": "mt-1 text-sm font-semibold text-ink-200"
+ },
+ {
+  "name": "e652",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "So that is what we test on first",
+  "page": "/about",
+  "cls": "mt-0.5 text-xs text-ink-dim"
+ },
+ {
+  "name": "e653",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "47 min",
+  "page": "/about",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e654",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Median first response",
+  "page": "/about",
+  "cls": "mt-1 text-sm font-semibold text-ink-200"
+ },
+ {
+  "name": "e655",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "9:30 AM – 7:00 PM IST, Mon–Sat",
+  "page": "/about",
+  "cls": "mt-0.5 text-xs text-ink-dim"
+ },
+ {
+  "name": "e656",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "How we got here",
+  "page": "/about",
+  "cls": "section-title"
+ },
+ {
+  "name": "e657",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 700,
+  "txt": "2019",
+  "page": "/about",
+  "cls": "tnum text-sm font-bold text-brand-600"
+ },
+ {
+  "name": "e658",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Ethixweb is founded",
+  "page": "/about",
+  "cls": "mt-1.5 text-[1.0625rem] font-bold leading-snug track"
+ },
+ {
+  "name": "e659",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A small senior team in the US built to r",
+  "page": "/about",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e660",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 700,
+  "txt": "2021",
+  "page": "/about",
+  "cls": "tnum text-sm font-bold text-brand-600"
+ },
+ {
+  "name": "e661",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "The first India engagements",
+  "page": "/about",
+  "cls": "mt-1.5 text-[1.0625rem] font-bold leading-snug track"
+ },
+ {
+  "name": "e662",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Founders in Jaipur, Ahmedabad and Bengal",
+  "page": "/about",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e663",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 700,
+  "txt": "2023",
+  "page": "/about",
+  "cls": "tnum text-sm font-bold text-brand-600"
+ },
+ {
+  "name": "e664",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "A studio in Jaipur",
+  "page": "/about",
+  "cls": "mt-1.5 text-[1.0625rem] font-bold leading-snug track"
+ },
+ {
+  "name": "e665",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "We stopped flying people in and opened a",
+  "page": "/about",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e666",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 700,
+  "txt": "2025",
+  "page": "/about",
+  "cls": "tnum text-sm font-bold text-brand-600"
+ },
+ {
+  "name": "e667",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "India becomes a practice",
+  "page": "/about",
+  "cls": "mt-1.5 text-[1.0625rem] font-bold leading-snug track"
+ },
+ {
+  "name": "e668",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Rupee pricing, GST invoicing, UPI paymen",
+  "page": "/about",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e669",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 700,
+  "txt": "2026",
+  "page": "/about",
+  "cls": "tnum text-sm font-bold text-brand-600"
+ },
+ {
+  "name": "e670",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "Nine cities, one team",
+  "page": "/about",
+  "cls": "mt-1.5 text-[1.0625rem] font-bold leading-snug track"
+ },
+ {
+  "name": "e671",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Clients from Kochi to Kolkata, 120+ proj",
+  "page": "/about",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e672",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "What we kept",
+  "page": "/about",
+  "cls": "section-title"
+ },
+ {
+  "name": "e673",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "The things that were never about geograp",
+  "page": "/about",
+  "cls": "lead mt-4"
+ },
+ {
+  "name": "e674",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Senior people on the work",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e675",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Whoever scopes your project builds it. N",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e676",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "You own everything",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e677",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Code, design files, domain, analytics, a",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e678",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "One accountable team",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e679",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Website, search, ads, automation and rep",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e680",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Plain-language reporting",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e681",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 400,
+  "txt": "A monthly note that says what changed, w",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e682",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "What we changed",
+  "page": "/about",
+  "cls": "section-title"
+ },
+ {
+  "name": "e683",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Everything that only made sense from Sea",
+  "page": "/about",
+  "cls": "lead mt-4"
+ },
+ {
+  "name": "e684",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "IST is the working day, not an accommoda",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e685",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Answers at 6 PM on a Friday in Jaipur, n",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e686",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Priced in rupees, invoiced under GST",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e687",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Fixed-price quotes, milestone payments, ",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e688",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Engineered for Indian networks",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e689",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Every build is tested on mid-range Andro",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e690",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Built for how India actually types",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e691",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Agents handle Hindi, English and romanis",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e692",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Compliance is part of the build",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e693",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "DPDP Act 2023 data handling, TRAI-regist",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e694",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Planned around the Indian calendar",
+  "page": "/about",
+  "cls": "font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e695",
+  "color": "rgb(50, 43, 40)",
+  "size": 15,
+  "weight": 400,
+  "txt": "Budgets and launches scheduled around Di",
+  "page": "/about",
+  "cls": "mt-1.5 text-[0.9375rem] leading-relaxed text-ink-700"
+ },
+ {
+  "name": "e696",
+  "color": "rgb(232, 129, 26)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Coverage",
+  "page": "/about",
+  "cls": "eyebrow text-saffron"
+ },
+ {
+  "name": "e697",
+  "color": "rgb(240, 160, 163)",
+  "size": 48,
+  "weight": 400,
+  "txt": "One team, one clock.",
+  "page": "/about",
+  "cls": "font-serif font-normal italic text-brand-300"
+ },
+ {
+  "name": "e698",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "We are headquartered in Jaipur and work ",
+  "page": "/about",
+  "cls": "mt-5 text-[1.0625rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e699",
+  "color": "rgb(255, 255, 255)",
+  "size": 24,
+  "weight": 700,
+  "txt": "Jaipur",
+  "page": "/about",
+  "cls": "mt-2 text-2xl font-bold tracking-tight text-white"
+ },
+ {
+  "name": "e700",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Headquarters · Design, engineering and s",
+  "page": "/about",
+  "cls": "mt-1 text-sm text-ink-300"
+ },
+ {
+  "name": "e701",
+  "color": "rgb(255, 255, 255)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Jaipur",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e702",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Delhi NCR",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e703",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Ahmedabad",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e704",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Mumbai",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e705",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Pune",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e706",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Bengaluru",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e707",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Chennai",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e708",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Hyderabad",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e709",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Kochi",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e710",
+  "color": "rgb(179, 169, 162)",
+  "size": 12,
+  "weight": 500,
+  "txt": "Kolkata",
+  "page": "/about",
+  "cls": "rounded-full px-3 py-1.5 text-xs font-medium transit"
+ },
+ {
+  "name": "e711",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 700,
+  "txt": "15:11:48",
+  "page": "/about",
+  "cls": "tnum "
+ },
+ {
+  "name": "e712",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 700,
+  "txt": "IST",
+  "page": "/about",
+  "cls": "text-[0.625rem] font-bold uppercase tracking-[0.12em"
+ },
+ {
+  "name": "e713",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "15:11",
+  "page": "/about",
+  "cls": "tnum mt-0.5 text-sm font-bold text-white"
+ },
+ {
+  "name": "e714",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 400,
+  "txt": "India",
+  "page": "/about",
+  "cls": "text-[0.625rem] text-ink-dim"
+ },
+ {
+  "name": "e715",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 700,
+  "txt": "GST",
+  "page": "/about",
+  "cls": "text-[0.625rem] font-bold uppercase tracking-[0.12em"
+ },
+ {
+  "name": "e716",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "13:41",
+  "page": "/about",
+  "cls": "tnum mt-0.5 text-sm font-bold text-white"
+ },
+ {
+  "name": "e717",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 400,
+  "txt": "Gulf",
+  "page": "/about",
+  "cls": "text-[0.625rem] text-ink-dim"
+ },
+ {
+  "name": "e718",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 700,
+  "txt": "BST",
+  "page": "/about",
+  "cls": "text-[0.625rem] font-bold uppercase tracking-[0.12em"
+ },
+ {
+  "name": "e719",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "10:41",
+  "page": "/about",
+  "cls": "tnum mt-0.5 text-sm font-bold text-white"
+ },
+ {
+  "name": "e720",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 400,
+  "txt": "UK",
+  "page": "/about",
+  "cls": "text-[0.625rem] text-ink-dim"
+ },
+ {
+  "name": "e721",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 700,
+  "txt": "ET",
+  "page": "/about",
+  "cls": "text-[0.625rem] font-bold uppercase tracking-[0.12em"
+ },
+ {
+  "name": "e722",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "05:41",
+  "page": "/about",
+  "cls": "tnum mt-0.5 text-sm font-bold text-white"
+ },
+ {
+  "name": "e723",
+  "color": "rgb(164, 154, 147)",
+  "size": 10,
+  "weight": 400,
+  "txt": "US East",
+  "page": "/about",
+  "cls": "text-[0.625rem] text-ink-dim"
+ },
+ {
+  "name": "e724",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Working hours are 9:30 AM – 7:00 PM IST,",
+  "page": "/about",
+  "cls": "mt-3 text-xs leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e725",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "How we behave",
+  "page": "/about",
+  "cls": "section-title"
+ },
+ {
+  "name": "e726",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Honest before impressive",
+  "page": "/about",
+  "cls": "mt-4 font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e727",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "If something is not worth doing, we say ",
+  "page": "/about",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e728",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Measure what matters",
+  "page": "/about",
+  "cls": "mt-4 font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e729",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Enquiries, qualified leads and revenue. ",
+  "page": "/about",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e730",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Boring and reliable",
+  "page": "/about",
+  "cls": "mt-4 font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e731",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Documented handovers, version control, s",
+  "page": "/about",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e732",
+  "color": "rgb(12, 10, 9)",
+  "size": 16,
+  "weight": 700,
+  "txt": "Leave-able by design",
+  "page": "/about",
+  "cls": "mt-4 font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e733",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "We would rather earn your business every",
+  "page": "/about",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e734",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "What we will not do",
+  "page": "/about",
+  "cls": "section-title"
+ },
+ {
+  "name": "e735",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Worth knowing before you talk to us, bec",
+  "page": "/about",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e736",
+  "color": "rgb(240, 160, 163)",
+  "size": 48,
+  "weight": 400,
+  "txt": "all of that",
+  "page": "/about",
+  "cls": "font-serif font-normal italic text-brand-300"
+ },
+ {
+  "name": "e737",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "A 45-minute call, no pitch deck. You lea",
+  "page": "/about",
+  "cls": "mx-auto mt-4 max-w-xl text-[1.0625rem] leading-relax"
+ },
+ {
+  "name": "e738",
+  "color": "rgb(255, 255, 255)",
+  "size": 16,
+  "weight": 600,
+  "txt": "See what we do",
+  "page": "/about",
+  "cls": "btn px-6 py-3.5 text-base text-white ring-1 ring-ins"
+ },
+ {
+  "name": "e739",
+  "color": "rgb(232, 129, 26)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Let's talk",
+  "page": "/about",
+  "cls": "eyebrow text-saffron"
+ },
+ {
+  "name": "e740",
+  "color": "rgb(240, 160, 163)",
+  "size": 56,
+  "weight": 700,
+  "txt": "not working",
+  "page": "/about",
+  "cls": "font-serif italic text-brand-300"
+ },
+ {
+  "name": "e741",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "A 45-minute call, no pitch deck. You lea",
+  "page": "/about",
+  "cls": "mt-4 max-w-xl text-[1.0625rem] leading-relaxed text-"
+ },
+ {
+  "name": "e742",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A senior digital operations team for Ind",
+  "page": "/about",
+  "cls": "mt-5 max-w-xs text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e743",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "+91 98290 12345",
+  "page": "/about",
+  "cls": "tnum text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e744",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "hello@ethixweb.in",
+  "page": "/about",
+  "cls": "text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e745",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Monday to Saturday · 9:30 AM – 7:00 PM I",
+  "page": "/about",
+  "cls": "text-ink-300"
+ },
+ {
+  "name": "e746",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Services",
+  "page": "/about",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e747",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Website Design & Development",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e748",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Ecommerce Development",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e749",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "AI Voice Receptionist",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e750",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "WhatsApp Automation",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e751",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "SEO for Indian Search",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e752",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "All 22 services",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e753",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Company",
+  "page": "/about",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e754",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Our India story",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e755",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Featured work",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e756",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Start a project",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e757",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Client admin",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e758",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Navigate",
+  "page": "/about",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e759",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Home",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e760",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Services",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e761",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Work",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e762",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "About",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e763",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Contact",
+  "page": "/about",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e764",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "3rd Floor, City Mall Annexe, Bhagwan Das",
+  "page": "/about",
+  "cls": "max-w-xl leading-relaxed"
+ },
+ {
+  "name": "e765",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GSTIN 08AAFCE1234K1ZG",
+  "page": "/about",
+  "cls": "tnum"
+ },
+ {
+  "name": "e766",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "CIN U72900RJ2019PTC065432",
+  "page": "/about",
+  "cls": "tnum"
+ },
+ {
+  "name": "e767",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "© 2026 Ethixweb Digital Operations Pvt. ",
+  "page": "/about",
+  "cls": ""
+ },
+ {
+  "name": "e768",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GST invoices",
+  "page": "/about",
+  "cls": ""
+ },
+ {
+  "name": "e769",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "UPI & NEFT accepted",
+  "page": "/about",
+  "cls": ""
+ },
+ {
+  "name": "e770",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "DPDP Act 2023 ready",
+  "page": "/about",
+  "cls": ""
+ },
+ {
+  "name": "e771",
+  "color": "rgb(179, 169, 162)",
+  "size": 11,
+  "weight": 500,
+  "txt": "Onboarding new clients this quarter · Ja",
+  "page": "/contact",
+  "cls": "truncate"
+ },
+ {
+  "name": "e772",
+  "color": "rgb(213, 206, 200)",
+  "size": 11,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/contact",
+  "cls": "tnum"
+ },
+ {
+  "name": "e773",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Home",
+  "page": "/contact",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e774",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Services",
+  "page": "/contact",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e775",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Work",
+  "page": "/contact",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e776",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "About",
+  "page": "/contact",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e777",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/contact",
+  "cls": "tnum"
+ },
+ {
+  "name": "e778",
+  "color": "rgb(209, 58, 64)",
+  "size": 56,
+  "weight": 400,
+  "txt": "stuck",
+  "page": "/contact",
+  "cls": "font-serif font-normal italic text-brand-500"
+ },
+ {
+  "name": "e779",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "One form, no gatekeeping. A senior membe",
+  "page": "/contact",
+  "cls": "lead mt-5 max-w-2xl"
+ },
+ {
+  "name": "e780",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Call us",
+  "page": "/contact",
+  "cls": "block text-xs font-bold uppercase tracking-[0.12em] "
+ },
+ {
+  "name": "e781",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "+91 98290 12345",
+  "page": "/contact",
+  "cls": "tnum block truncate text-[1.0625rem] font-bold track"
+ },
+ {
+  "name": "e782",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Fastest for anything urgent",
+  "page": "/contact",
+  "cls": "block text-xs text-ink-500"
+ },
+ {
+  "name": "e783",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 700,
+  "txt": "WhatsApp",
+  "page": "/contact",
+  "cls": "block text-xs font-bold uppercase tracking-[0.12em] "
+ },
+ {
+  "name": "e784",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "+91 98290 12345",
+  "page": "/contact",
+  "cls": "tnum block truncate text-[1.0625rem] font-bold track"
+ },
+ {
+  "name": "e785",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Fastest for anything at all",
+  "page": "/contact",
+  "cls": "block text-xs text-ink-500"
+ },
+ {
+  "name": "e786",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Email",
+  "page": "/contact",
+  "cls": "block text-xs font-bold uppercase tracking-[0.12em] "
+ },
+ {
+  "name": "e787",
+  "color": "rgb(12, 10, 9)",
+  "size": 17,
+  "weight": 700,
+  "txt": "hello@ethixweb.in",
+  "page": "/contact",
+  "cls": "tnum block truncate text-[1.0625rem] font-bold track"
+ },
+ {
+  "name": "e788",
+  "color": "rgb(109, 98, 91)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Send a brief, we will send a plan",
+  "page": "/contact",
+  "cls": "block text-xs text-ink-500"
+ },
+ {
+  "name": "e789",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Studio",
+  "page": "/contact",
+  "cls": "text-sm font-bold uppercase tracking-[0.12em] text-i"
+ },
+ {
+  "name": "e790",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Hours",
+  "page": "/contact",
+  "cls": "text-ink-400"
+ },
+ {
+  "name": "e791",
+  "color": "rgb(50, 43, 40)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Monday to Saturday · 9:30 AM – 7:00 PM I",
+  "page": "/contact",
+  "cls": "text-ink-700"
+ },
+ {
+  "name": "e792",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "GSTIN",
+  "page": "/contact",
+  "cls": "text-ink-400"
+ },
+ {
+  "name": "e793",
+  "color": "rgb(50, 43, 40)",
+  "size": 14,
+  "weight": 400,
+  "txt": "08AAFCE1234K1ZG",
+  "page": "/contact",
+  "cls": "tnum text-ink-700"
+ },
+ {
+  "name": "e794",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Working with clients abroad?",
+  "page": "/contact",
+  "cls": "text-sm font-semibold text-white"
+ },
+ {
+  "name": "e795",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Our day is 9:30 AM – 7:00 PM IST, which ",
+  "page": "/contact",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed"
+ },
+ {
+  "name": "e796",
+  "color": "rgb(12, 10, 9)",
+  "size": 20,
+  "weight": 700,
+  "txt": "Start a project",
+  "page": "/contact",
+  "cls": "text-xl font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e797",
+  "color": "rgb(109, 98, 91)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Tell us what is broken. We reply within ",
+  "page": "/contact",
+  "cls": "mt-1.5 text-sm text-ink-500"
+ },
+ {
+  "name": "e798",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "*",
+  "page": "/contact",
+  "cls": "ml-0.5 text-brand-600"
+ },
+ {
+  "name": "e799",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "*",
+  "page": "/contact",
+  "cls": "ml-0.5 text-brand-600"
+ },
+ {
+  "name": "e800",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "*",
+  "page": "/contact",
+  "cls": "ml-0.5 text-brand-600"
+ },
+ {
+  "name": "e801",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "10-digit Indian mobile. We only use it t",
+  "page": "/contact",
+  "cls": "mt-1.5 text-xs text-ink-400"
+ },
+ {
+  "name": "e802",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "(optional)",
+  "page": "/contact",
+  "cls": "ml-1.5 text-xs font-normal text-ink-400"
+ },
+ {
+  "name": "e803",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "(optional)",
+  "page": "/contact",
+  "cls": "ml-1.5 text-xs font-normal text-ink-400"
+ },
+ {
+  "name": "e804",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "*",
+  "page": "/contact",
+  "cls": "ml-0.5 text-brand-600"
+ },
+ {
+  "name": "e805",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "(optional)",
+  "page": "/contact",
+  "cls": "ml-1.5 text-xs font-normal text-ink-400"
+ },
+ {
+  "name": "e806",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "*",
+  "page": "/contact",
+  "cls": "ml-0.5 text-brand-600"
+ },
+ {
+  "name": "e807",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "A couple of sentences is plenty. 0/2000",
+  "page": "/contact",
+  "cls": "mt-1.5 text-xs text-ink-400"
+ },
+ {
+  "name": "e808",
+  "color": "rgb(34, 29, 27)",
+  "size": 16,
+  "weight": 400,
+  "txt": "Website",
+  "page": "/contact",
+  "cls": ""
+ },
+ {
+  "name": "e809",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "By submitting you agree we may contact y",
+  "page": "/contact",
+  "cls": "text-xs leading-relaxed text-ink-400"
+ },
+ {
+  "name": "e810",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "What happens next",
+  "page": "/contact",
+  "cls": "section-title"
+ },
+ {
+  "name": "e811",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "1",
+  "page": "/contact",
+  "cls": "tnum flex h-9 w-9 items-center justify-center rounde"
+ },
+ {
+  "name": "e812",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "We read it properly",
+  "page": "/contact",
+  "cls": "mt-4 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e813",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A senior engineer or strategist — not a ",
+  "page": "/contact",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e814",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "2",
+  "page": "/contact",
+  "cls": "tnum flex h-9 w-9 items-center justify-center rounde"
+ },
+ {
+  "name": "e815",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "You get a real reply",
+  "page": "/contact",
+  "cls": "mt-4 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e816",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Within one business day you hear back wi",
+  "page": "/contact",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e817",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "3",
+  "page": "/contact",
+  "cls": "tnum flex h-9 w-9 items-center justify-center rounde"
+ },
+ {
+  "name": "e818",
+  "color": "rgb(12, 10, 9)",
+  "size": 18,
+  "weight": 700,
+  "txt": "45-minute call",
+  "page": "/contact",
+  "cls": "mt-4 text-lg font-bold tracking-tight text-ink-950"
+ },
+ {
+  "name": "e819",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 400,
+  "txt": "If it looks like a fit, we book a call i",
+  "page": "/contact",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e820",
+  "color": "rgb(232, 129, 26)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Let's talk",
+  "page": "/contact",
+  "cls": "eyebrow text-saffron"
+ },
+ {
+  "name": "e821",
+  "color": "rgb(240, 160, 163)",
+  "size": 56,
+  "weight": 700,
+  "txt": "not working",
+  "page": "/contact",
+  "cls": "font-serif italic text-brand-300"
+ },
+ {
+  "name": "e822",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "A 45-minute call, no pitch deck. You lea",
+  "page": "/contact",
+  "cls": "mt-4 max-w-xl text-[1.0625rem] leading-relaxed text-"
+ },
+ {
+  "name": "e823",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A senior digital operations team for Ind",
+  "page": "/contact",
+  "cls": "mt-5 max-w-xs text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e824",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "+91 98290 12345",
+  "page": "/contact",
+  "cls": "tnum text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e825",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "hello@ethixweb.in",
+  "page": "/contact",
+  "cls": "text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e826",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Monday to Saturday · 9:30 AM – 7:00 PM I",
+  "page": "/contact",
+  "cls": "text-ink-300"
+ },
+ {
+  "name": "e827",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Services",
+  "page": "/contact",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e828",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Website Design & Development",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e829",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Ecommerce Development",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e830",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "AI Voice Receptionist",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e831",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "WhatsApp Automation",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e832",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "SEO for Indian Search",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e833",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "All 22 services",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e834",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Company",
+  "page": "/contact",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e835",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Our India story",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e836",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Featured work",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e837",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Start a project",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e838",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Client admin",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e839",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Navigate",
+  "page": "/contact",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e840",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Home",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e841",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Services",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e842",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Work",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e843",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "About",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e844",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Contact",
+  "page": "/contact",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e845",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "3rd Floor, City Mall Annexe, Bhagwan Das",
+  "page": "/contact",
+  "cls": "max-w-xl leading-relaxed"
+ },
+ {
+  "name": "e846",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GSTIN 08AAFCE1234K1ZG",
+  "page": "/contact",
+  "cls": "tnum"
+ },
+ {
+  "name": "e847",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "CIN U72900RJ2019PTC065432",
+  "page": "/contact",
+  "cls": "tnum"
+ },
+ {
+  "name": "e848",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "© 2026 Ethixweb Digital Operations Pvt. ",
+  "page": "/contact",
+  "cls": ""
+ },
+ {
+  "name": "e849",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GST invoices",
+  "page": "/contact",
+  "cls": ""
+ },
+ {
+  "name": "e850",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "UPI & NEFT accepted",
+  "page": "/contact",
+  "cls": ""
+ },
+ {
+  "name": "e851",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "DPDP Act 2023 ready",
+  "page": "/contact",
+  "cls": ""
+ },
+ {
+  "name": "e852",
+  "color": "rgb(179, 169, 162)",
+  "size": 11,
+  "weight": 500,
+  "txt": "Onboarding new clients this quarter · Ja",
+  "page": "/services/website-design-development",
+  "cls": "truncate"
+ },
+ {
+  "name": "e853",
+  "color": "rgb(213, 206, 200)",
+  "size": 11,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/services/website-design-development",
+  "cls": "tnum"
+ },
+ {
+  "name": "e854",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Home",
+  "page": "/services/website-design-development",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e855",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Work",
+  "page": "/services/website-design-development",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e856",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "About",
+  "page": "/services/website-design-development",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e857",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Contact",
+  "page": "/services/website-design-development",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e858",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/services/website-design-development",
+  "cls": "tnum"
+ },
+ {
+  "name": "e859",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Home",
+  "page": "/services/website-design-development",
+  "cls": "hover:text-brand-600"
+ },
+ {
+  "name": "e860",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Services",
+  "page": "/services/website-design-development",
+  "cls": "hover:text-brand-600"
+ },
+ {
+  "name": "e861",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Website",
+  "page": "/services/website-design-development",
+  "cls": "hover:text-brand-600"
+ },
+ {
+  "name": "e862",
+  "color": "rgb(50, 43, 40)",
+  "size": 14,
+  "weight": 500,
+  "txt": "Website Design & Development",
+  "page": "/services/website-design-development",
+  "cls": "font-medium text-ink-700"
+ },
+ {
+  "name": "e863",
+  "color": "rgb(12, 10, 9)",
+  "size": 56,
+  "weight": 800,
+  "txt": "Website Design & Development",
+  "page": "/services/website-design-development",
+  "cls": "text-display-sm mt-4 font-extrabold text-ink-950"
+ },
+ {
+  "name": "e864",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Premium sites that load in under a secon",
+  "page": "/services/website-design-development",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e865",
+  "color": "rgb(76, 66, 61)",
+  "size": 17,
+  "weight": 400,
+  "txt": "We design and build websites that work o",
+  "page": "/services/website-design-development",
+  "cls": "mt-5 text-[1.0625rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e866",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Starting at",
+  "page": "/services/website-design-development",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e867",
+  "color": "rgb(12, 10, 9)",
+  "size": 30,
+  "weight": 800,
+  "txt": "₹85,000",
+  "page": "/services/website-design-development",
+  "cls": "mt-1 text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e868",
+  "color": "rgb(109, 98, 91)",
+  "size": 13,
+  "weight": 400,
+  "txt": "one-time for a 8–12 page marketing site.",
+  "page": "/services/website-design-development",
+  "cls": "mt-2 text-[0.8125rem] leading-relaxed text-ink-500"
+ },
+ {
+  "name": "e869",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Typical timeline",
+  "page": "/services/website-design-development",
+  "cls": "text-ink-400"
+ },
+ {
+  "name": "e870",
+  "color": "rgb(20, 17, 16)",
+  "size": 14,
+  "weight": 600,
+  "txt": "4–6 weeks",
+  "page": "/services/website-design-development",
+  "cls": "mt-0.5 font-semibold text-ink-900"
+ },
+ {
+  "name": "e871",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Best for",
+  "page": "/services/website-design-development",
+  "cls": "text-ink-400"
+ },
+ {
+  "name": "e872",
+  "color": "rgb(20, 17, 16)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Professional services, healthcare, real ",
+  "page": "/services/website-design-development",
+  "cls": "mt-0.5 font-semibold text-ink-900"
+ },
+ {
+  "name": "e873",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Fixed price, quoted in writing, GST invo",
+  "page": "/services/website-design-development",
+  "cls": "mt-3 text-center text-xs text-ink-400"
+ },
+ {
+  "name": "e874",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "What you get",
+  "page": "/services/website-design-development",
+  "cls": "section-title"
+ },
+ {
+  "name": "e875",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "What it delivers",
+  "page": "/services/website-design-development",
+  "cls": "section-title"
+ },
+ {
+  "name": "e876",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "0.9s",
+  "page": "/services/website-design-development",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e877",
+  "color": "rgb(179, 169, 162)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Median LCP on mobile 4G across 2025 buil",
+  "page": "/services/website-design-development",
+  "cls": "mt-2 text-[0.8125rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e878",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "95+",
+  "page": "/services/website-design-development",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e879",
+  "color": "rgb(179, 169, 162)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Average Google PageSpeed mobile score at",
+  "page": "/services/website-design-development",
+  "cls": "mt-2 text-[0.8125rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e880",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "2.1×",
+  "page": "/services/website-design-development",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e881",
+  "color": "rgb(179, 169, 162)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Typical lift in enquiry rate after relau",
+  "page": "/services/website-design-development",
+  "cls": "mt-2 text-[0.8125rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e882",
+  "color": "rgb(34, 29, 27)",
+  "size": 17,
+  "weight": 400,
+  "txt": "Built and tested on real mid-range Andro",
+  "page": "/services/website-design-development",
+  "cls": "mt-3 text-[1.0625rem] leading-relaxed text-ink-800"
+ },
+ {
+  "name": "e883",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "Common questions",
+  "page": "/services/website-design-development",
+  "cls": "section-title"
+ },
+ {
+  "name": "e887",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Talk to a senior engineer",
+  "page": "/services/website-design-development",
+  "cls": "text-sm font-bold text-white"
+ },
+ {
+  "name": "e888",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Not a sales rep. Ask the awkward technic",
+  "page": "/services/website-design-development",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e889",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Also consider",
+  "page": "/services/website-design-development",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e890",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "View all 22 services →",
+  "page": "/services/website-design-development",
+  "cls": "mt-3 inline-block border-t border-ink-100 pt-3 text-"
+ },
+ {
+  "name": "e891",
+  "color": "rgb(232, 129, 26)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Let's talk",
+  "page": "/services/website-design-development",
+  "cls": "eyebrow text-saffron"
+ },
+ {
+  "name": "e892",
+  "color": "rgb(240, 160, 163)",
+  "size": 56,
+  "weight": 700,
+  "txt": "not working",
+  "page": "/services/website-design-development",
+  "cls": "font-serif italic text-brand-300"
+ },
+ {
+  "name": "e893",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "A 45-minute call, no pitch deck. You lea",
+  "page": "/services/website-design-development",
+  "cls": "mt-4 max-w-xl text-[1.0625rem] leading-relaxed text-"
+ },
+ {
+  "name": "e894",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A senior digital operations team for Ind",
+  "page": "/services/website-design-development",
+  "cls": "mt-5 max-w-xs text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e895",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "+91 98290 12345",
+  "page": "/services/website-design-development",
+  "cls": "tnum text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e896",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "hello@ethixweb.in",
+  "page": "/services/website-design-development",
+  "cls": "text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e897",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Monday to Saturday · 9:30 AM – 7:00 PM I",
+  "page": "/services/website-design-development",
+  "cls": "text-ink-300"
+ },
+ {
+  "name": "e898",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Services",
+  "page": "/services/website-design-development",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e899",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Website Design & Development",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e900",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Ecommerce Development",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e901",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "AI Voice Receptionist",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e902",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "WhatsApp Automation",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e903",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "SEO for Indian Search",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e904",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "All 22 services",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e905",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Company",
+  "page": "/services/website-design-development",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e906",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Our India story",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e907",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Featured work",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e908",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Start a project",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e909",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Client admin",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e910",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Navigate",
+  "page": "/services/website-design-development",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e911",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Home",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e912",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Services",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e913",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Work",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e914",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "About",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e915",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Contact",
+  "page": "/services/website-design-development",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e916",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "3rd Floor, City Mall Annexe, Bhagwan Das",
+  "page": "/services/website-design-development",
+  "cls": "max-w-xl leading-relaxed"
+ },
+ {
+  "name": "e917",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GSTIN 08AAFCE1234K1ZG",
+  "page": "/services/website-design-development",
+  "cls": "tnum"
+ },
+ {
+  "name": "e918",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "CIN U72900RJ2019PTC065432",
+  "page": "/services/website-design-development",
+  "cls": "tnum"
+ },
+ {
+  "name": "e919",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "© 2026 Ethixweb Digital Operations Pvt. ",
+  "page": "/services/website-design-development",
+  "cls": ""
+ },
+ {
+  "name": "e920",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GST invoices",
+  "page": "/services/website-design-development",
+  "cls": ""
+ },
+ {
+  "name": "e921",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "UPI & NEFT accepted",
+  "page": "/services/website-design-development",
+  "cls": ""
+ },
+ {
+  "name": "e922",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "DPDP Act 2023 ready",
+  "page": "/services/website-design-development",
+  "cls": ""
+ },
+ {
+  "name": "e923",
+  "color": "rgb(179, 169, 162)",
+  "size": 11,
+  "weight": 500,
+  "txt": "Onboarding new clients this quarter · Ja",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "truncate"
+ },
+ {
+  "name": "e924",
+  "color": "rgb(213, 206, 200)",
+  "size": 11,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "tnum"
+ },
+ {
+  "name": "e925",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Home",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e926",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Work",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e927",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "About",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e928",
+  "color": "rgb(76, 66, 61)",
+  "size": 15,
+  "weight": 500,
+  "txt": "Contact",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "relative rounded-lg px-3.5 py-2 text-[0.9375rem] fon"
+ },
+ {
+  "name": "e929",
+  "color": "rgb(76, 66, 61)",
+  "size": 14,
+  "weight": 500,
+  "txt": "+91 98290 12345",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "tnum"
+ },
+ {
+  "name": "e930",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Home",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "hover:text-brand-600"
+ },
+ {
+  "name": "e931",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Services",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "hover:text-brand-600"
+ },
+ {
+  "name": "e932",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "AI",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "hover:text-brand-600"
+ },
+ {
+  "name": "e933",
+  "color": "rgb(50, 43, 40)",
+  "size": 14,
+  "weight": 500,
+  "txt": "AI Voice Receptionist",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "font-medium text-ink-700"
+ },
+ {
+  "name": "e934",
+  "color": "rgb(12, 10, 9)",
+  "size": 56,
+  "weight": 800,
+  "txt": "AI Voice Receptionist",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-display-sm mt-4 font-extrabold text-ink-950"
+ },
+ {
+  "name": "e935",
+  "color": "rgb(76, 66, 61)",
+  "size": 21,
+  "weight": 400,
+  "txt": "Every missed call answered, qualified an",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "lead mt-5"
+ },
+ {
+  "name": "e936",
+  "color": "rgb(76, 66, 61)",
+  "size": 17,
+  "weight": 400,
+  "txt": "Indian businesses lose an enormous numbe",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-5 text-[1.0625rem] leading-relaxed text-ink-600"
+ },
+ {
+  "name": "e937",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Starting at",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e938",
+  "color": "rgb(12, 10, 9)",
+  "size": 30,
+  "weight": 800,
+  "txt": "₹22,000",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-1 text-3xl font-extrabold tracking-tight text-ink"
+ },
+ {
+  "name": "e939",
+  "color": "rgb(109, 98, 91)",
+  "size": 13,
+  "weight": 400,
+  "txt": "per month, including telephony minutes u",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-2 text-[0.8125rem] leading-relaxed text-ink-500"
+ },
+ {
+  "name": "e940",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Typical timeline",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-ink-400"
+ },
+ {
+  "name": "e941",
+  "color": "rgb(20, 17, 16)",
+  "size": 14,
+  "weight": 600,
+  "txt": "2–3 weeks to launch",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-0.5 font-semibold text-ink-900"
+ },
+ {
+  "name": "e942",
+  "color": "rgb(112, 102, 95)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Best for",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-ink-400"
+ },
+ {
+  "name": "e943",
+  "color": "rgb(20, 17, 16)",
+  "size": 14,
+  "weight": 600,
+  "txt": "Clinics, salons, real estate, education,",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-0.5 font-semibold text-ink-900"
+ },
+ {
+  "name": "e944",
+  "color": "rgb(112, 102, 95)",
+  "size": 12,
+  "weight": 400,
+  "txt": "Fixed price, quoted in writing, GST invo",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-3 text-center text-xs text-ink-400"
+ },
+ {
+  "name": "e945",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "What you get",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "section-title"
+ },
+ {
+  "name": "e946",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "What it delivers",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "section-title"
+ },
+ {
+  "name": "e947",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "< 2s",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e948",
+  "color": "rgb(179, 169, 162)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Time to first response, 24 hours a day",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-2 text-[0.8125rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e949",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "−71%",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e950",
+  "color": "rgb(179, 169, 162)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Missed-call rate for a 14-location clini",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-2 text-[0.8125rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e951",
+  "color": "rgb(255, 255, 255)",
+  "size": 30,
+  "weight": 800,
+  "txt": "+38%",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "tnum text-3xl font-extrabold tracking-tight text-whi"
+ },
+ {
+  "name": "e952",
+  "color": "rgb(179, 169, 162)",
+  "size": 13,
+  "weight": 400,
+  "txt": "Booked appointments in the first 90 days",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-2 text-[0.8125rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e953",
+  "color": "rgb(34, 29, 27)",
+  "size": 17,
+  "weight": 400,
+  "txt": "Trained on Indian accents, code-switchin",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-3 text-[1.0625rem] leading-relaxed text-ink-800"
+ },
+ {
+  "name": "e954",
+  "color": "rgb(12, 10, 9)",
+  "size": 48,
+  "weight": 700,
+  "txt": "Common questions",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "section-title"
+ },
+ {
+  "name": "e958",
+  "color": "rgb(255, 255, 255)",
+  "size": 14,
+  "weight": 700,
+  "txt": "Talk to a senior engineer",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm font-bold text-white"
+ },
+ {
+  "name": "e959",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Not a sales rep. Ask the awkward technic",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-2 text-[0.875rem] leading-relaxed text-ink-300"
+ },
+ {
+  "name": "e960",
+  "color": "rgb(112, 102, 95)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Also consider",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-[0.6875rem] font-bold uppercase tracking-[0.14e"
+ },
+ {
+  "name": "e961",
+  "color": "rgb(179, 34, 40)",
+  "size": 14,
+  "weight": 600,
+  "txt": "View all 22 services →",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-3 inline-block border-t border-ink-100 pt-3 text-"
+ },
+ {
+  "name": "e962",
+  "color": "rgb(232, 129, 26)",
+  "size": 11,
+  "weight": 700,
+  "txt": "Let's talk",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "eyebrow text-saffron"
+ },
+ {
+  "name": "e963",
+  "color": "rgb(240, 160, 163)",
+  "size": 56,
+  "weight": 700,
+  "txt": "not working",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "font-serif italic text-brand-300"
+ },
+ {
+  "name": "e964",
+  "color": "rgb(179, 169, 162)",
+  "size": 17,
+  "weight": 400,
+  "txt": "A 45-minute call, no pitch deck. You lea",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-4 max-w-xl text-[1.0625rem] leading-relaxed text-"
+ },
+ {
+  "name": "e965",
+  "color": "rgb(164, 154, 147)",
+  "size": 14,
+  "weight": 400,
+  "txt": "A senior digital operations team for Ind",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "mt-5 max-w-xs text-sm leading-relaxed text-ink-dim"
+ },
+ {
+  "name": "e966",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "+91 98290 12345",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "tnum text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e967",
+  "color": "rgb(213, 206, 200)",
+  "size": 14,
+  "weight": 400,
+  "txt": "hello@ethixweb.in",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-ink-200 transition-colors hover:text-white"
+ },
+ {
+  "name": "e968",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Monday to Saturday · 9:30 AM – 7:00 PM I",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-ink-300"
+ },
+ {
+  "name": "e969",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Services",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e970",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Website Design & Development",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e971",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Ecommerce Development",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e972",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "AI Voice Receptionist",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e973",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "WhatsApp Automation",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e974",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "SEO for Indian Search",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e975",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "All 22 services",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e976",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Company",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e977",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Our India story",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e978",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Featured work",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e979",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Start a project",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e980",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Client admin",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e981",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 700,
+  "txt": "Navigate",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-xs font-bold uppercase tracking-[0.14em] text-i"
+ },
+ {
+  "name": "e982",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Home",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e983",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Services",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e984",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Work",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e985",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "About",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e986",
+  "color": "rgb(179, 169, 162)",
+  "size": 14,
+  "weight": 400,
+  "txt": "Contact",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "text-sm text-ink-300 transition-colors hover:text-wh"
+ },
+ {
+  "name": "e987",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "3rd Floor, City Mall Annexe, Bhagwan Das",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "max-w-xl leading-relaxed"
+ },
+ {
+  "name": "e988",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GSTIN 08AAFCE1234K1ZG",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "tnum"
+ },
+ {
+  "name": "e989",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "CIN U72900RJ2019PTC065432",
+  "page": "/services/ai-voice-receptionist",
+  "cls": "tnum"
+ },
+ {
+  "name": "e990",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "© 2026 Ethixweb Digital Operations Pvt. ",
+  "page": "/services/ai-voice-receptionist",
+  "cls": ""
+ },
+ {
+  "name": "e991",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "GST invoices",
+  "page": "/services/ai-voice-receptionist",
+  "cls": ""
+ },
+ {
+  "name": "e992",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "UPI & NEFT accepted",
+  "page": "/services/ai-voice-receptionist",
+  "cls": ""
+ },
+ {
+  "name": "e993",
+  "color": "rgb(164, 154, 147)",
+  "size": 12,
+  "weight": 400,
+  "txt": "DPDP Act 2023 ready",
+  "page": "/services/ai-voice-receptionist",
+  "cls": ""
+ }
+]

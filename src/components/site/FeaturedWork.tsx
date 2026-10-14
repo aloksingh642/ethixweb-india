@@ -8,7 +8,9 @@ import { SectionHead } from './SectionHead';
 const ACCENT: Record<string, { ring: string; glow: string; text: string }> = {
   brand: { ring: 'ring-brand-500/20', glow: 'from-brand-500/25', text: 'text-brand-300' },
   saffron: { ring: 'ring-saffron/25', glow: 'from-saffron/25', text: 'text-saffron' },
-  jade: { ring: 'ring-jade/25', glow: 'from-jade/25', text: 'text-jade' },
+  // Cards here are bg-ink-950, so jade has to be the dark-surface tint:
+  // #0f6b5c is only 3.1:1 on ink-950, #5fbfae is 9.0:1.
+  jade: { ring: 'ring-jade/25', glow: 'from-jade/25', text: 'text-jade-300' },
   ink: { ring: 'ring-white/15', glow: 'from-ink-400/20', text: 'text-ink-200' },
 };
 
