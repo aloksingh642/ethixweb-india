@@ -1,0 +1,375 @@
+@import 'tailwindcss';
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   ETHIXWEB INDIA — DESIGN TOKENS
+   The palette keeps Ethixweb's exact brand red (#D13A40 family, sampled from
+   ethixweb.com) but re-grounds everything on warm "bone" paper instead of the
+   cool grey of the US site. Warm neutrals + saffron + terracotta read as
+   premium *Indian* design rather than generic US SaaS.
+   ═══════════════════════════════════════════════════════════════════════════ */
+@theme {
+  /* Brand red — inherited verbatim from ethixweb.com */
+  --color-brand-50: #fef4f4;
+  --color-brand-100: #fce7e8;
+  --color-brand-200: #f8cbcd;
+  --color-brand-300: #f0a0a3;
+  --color-brand-400: #e4696e;
+  --color-brand-500: #d13a40;
+  --color-brand-600: #b32228;
+  --color-brand-700: #8a181c;
+  --color-brand-800: #6b1215;
+  --color-brand-900: #470c0e;
+
+  /* Warm ink neutrals (warm cast, not blue-grey) */
+  --color-ink-950: #0c0a09;
+  --color-ink-900: #141110;
+  --color-ink-850: #1a1615;
+  --color-ink-800: #221d1b;
+  --color-ink-700: #322b28;
+  --color-ink-600: #4c423d;
+  --color-ink-500: #6d625b;
+  /* Muted text on LIGHT surfaces. Darkened from #8f847c (3.1:1) to clear
+     WCAG AA 4.5:1 against every paper tone, including bone-deep. */
+  --color-ink-400: #70665f;
+  /* Muted text on DARK surfaces. A single token cannot serve both: a value
+     light enough to read on ink-950 fails on white, and vice versa. */
+  --color-ink-dim: #a49a93;
+  --color-ink-300: #b3a9a2;
+  --color-ink-200: #d5cec8;
+  --color-ink-100: #e8e3de;
+  --color-ink-50: #f5f2ee;
+
+  /* Paper surfaces */
+  --color-bone: #faf7f2;
+  --color-bone-deep: #f2ece2;
+  --color-paper: #ffffff;
+
+  /* India accents — used sparingly, never as large fills */
+  --color-saffron: #e8811a;
+  --color-saffron-soft: #fdf1de;
+  --color-terracotta: #b4593a;
+  --color-jade: #0f6b5c;
+  --color-jade-soft: #e6f2f0;
+
+  /* Typography */
+  --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, sans-serif;
+  --font-serif: var(--font-instrument), 'Iowan Old Style', Georgia, 'Times New Roman', serif;
+  --font-deva: 'Noto Sans Devanagari', 'Nirmala UI', 'Kohinoor Devanagari', Mangal, var(--font-jakarta),
+    system-ui, sans-serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', 'Menlo', 'Consolas', monospace;
+
+  /* Fluid display sizes — mobile-first, clamp() so nothing reflows badly */
+  --text-display: clamp(2.5rem, 1.6rem + 4.4vw, 4.75rem);
+  --text-display-sm: clamp(2rem, 1.45rem + 2.7vw, 3.5rem);
+  --text-h2: clamp(1.75rem, 1.3rem + 2.2vw, 3rem);
+  --text-h3: clamp(1.25rem, 1.1rem + 0.8vw, 1.6rem);
+  --text-lead: clamp(1.0625rem, 1rem + 0.35vw, 1.3125rem);
+
+  /* Motion */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.34, 1.36, 0.64, 1);
+
+  --shadow-soft: 0 1px 2px rgb(28 25 23 / 0.04), 0 8px 24px -12px rgb(28 25 23 / 0.12);
+  --shadow-lift: 0 2px 4px rgb(28 25 23 / 0.04), 0 18px 40px -16px rgb(28 25 23 / 0.18);
+  --shadow-brand: 0 10px 30px -10px rgb(209 58 64 / 0.45);
+}
+
+/* ─────────────────────────── BASE ─────────────────────────── */
+@layer base {
+  * {
+    min-width: 0;
+  }
+
+  html {
+    /* Premium detail: optical sizing + crisp ligature-free numerals in tables */
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    scroll-behavior: smooth;
+    /* Sticky header is 64px on mobile; keep anchor scroll clear of it */
+    scroll-padding-top: 6rem;
+  }
+
+  body {
+    background-color: var(--color-bone);
+    color: var(--color-ink-800);
+    font-family: var(--font-sans);
+    font-synthesis-weight: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* Subtle warm paper grain. Inline SVG data-URI = zero extra requests. */
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
+  }
+
+  ::selection {
+    background-color: var(--color-brand-500);
+    color: #fff;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-brand-500);
+    outline-offset: 3px;
+    border-radius: 3px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: var(--color-ink-950);
+    letter-spacing: -0.022em;
+    text-wrap: balance;
+    font-weight: 700;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  /* Tabular numerals everywhere money or time is shown */
+  .tnum {
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: 'tnum' 1;
+  }
+}
+
+/* ─────────────────────── COMPONENTS ───────────────────────── */
+@layer components {
+  .container-page {
+    width: 100%;
+    max-width: 78rem; /* 1248px */
+    margin-inline: auto;
+    padding-inline: 1.25rem;
+  }
+  @media (min-width: 640px) {
+    .container-page {
+      padding-inline: 2rem;
+    }
+  }
+  @media (min-width: 1024px) {
+    .container-page {
+      padding-inline: 2.5rem;
+    }
+  }
+
+  /* Eyebrow / kicker label */
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.6875rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-brand-600);
+  }
+
+  /* Section heading block */
+  .section-title {
+    font-size: var(--text-h2);
+    line-height: 1.06;
+    letter-spacing: -0.03em;
+  }
+
+  .lead {
+    font-size: var(--text-lead);
+    line-height: 1.6;
+    color: var(--color-ink-600);
+  }
+
+  /* Primary CTA */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 0.625rem;
+    padding: 0.8125rem 1.375rem;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    white-space: nowrap;
+    cursor: pointer;
+    transition:
+      transform 0.18s var(--ease-out-expo),
+      background-color 0.18s ease,
+      border-color 0.18s ease,
+      color 0.18s ease,
+      box-shadow 0.18s ease;
+  }
+  .btn:active {
+    transform: translateY(1px) scale(0.995);
+  }
+
+  .btn-primary {
+    background-color: var(--color-brand-500);
+    color: #fff;
+    box-shadow: var(--shadow-brand);
+  }
+  .btn-primary:hover {
+    background-color: var(--color-brand-600);
+  }
+
+  .btn-dark {
+    background-color: var(--color-ink-950);
+    color: #fff;
+  }
+  .btn-dark:hover {
+    background-color: var(--color-ink-800);
+  }
+
+  .btn-ghost {
+    background-color: transparent;
+    color: var(--color-ink-900);
+    border: 1px solid var(--color-ink-200);
+  }
+  .btn-ghost:hover {
+    border-color: var(--color-ink-900);
+    background-color: var(--color-ink-50);
+  }
+
+  .btn-light {
+    background-color: #fff;
+    color: var(--color-ink-950);
+  }
+  .btn-light:hover {
+    background-color: var(--color-bone-deep);
+  }
+
+  /* Card */
+  .card {
+    background-color: #fff;
+    border: 1px solid var(--color-ink-100);
+    border-radius: 1rem;
+    box-shadow: var(--shadow-soft);
+  }
+
+  .hairline {
+    border-color: var(--color-ink-100);
+  }
+
+  /* Underline flourish used under section titles */
+  .rule-saffron {
+    height: 3px;
+    width: 3.5rem;
+    border-radius: 999px;
+    background: linear-gradient(90deg, var(--color-saffron), var(--color-brand-500));
+  }
+}
+
+/* ──────────────────────── UTILITIES ───────────────────────── */
+@utility text-display {
+  font-size: var(--text-display);
+  line-height: 1.02;
+  letter-spacing: -0.04em;
+}
+
+@utility text-display-sm {
+  font-size: var(--text-display-sm);
+  line-height: 1.05;
+  letter-spacing: -0.033em;
+}
+
+/* Gradient text that keeps contrast if gradients are unsupported */
+@utility text-gradient-brand {
+  background-image: linear-gradient(100deg, var(--color-brand-500), var(--color-terracotta) 55%, var(--color-saffron));
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+@utility surface-dark {
+  background-color: var(--color-ink-950);
+  color: var(--color-ink-100);
+}
+
+/* ────────────────── SCROLL REVEAL (progressive) ──────────────────
+   Hidden state is applied only when JS is available (html.js-reveal), so
+   content is never invisible for crawlers, JS-off users or Lighthouse.     */
+@layer components {
+  .js-reveal [data-reveal] {
+    opacity: 0;
+    transform: translate3d(0, 14px, 0);
+    transition:
+      opacity 0.7s var(--ease-out-expo),
+      transform 0.7s var(--ease-out-expo);
+    transition-delay: var(--reveal-delay, 0ms);
+  }
+  .js-reveal [data-reveal].is-revealed {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Marquee — CSS only, GPU-composited */
+@keyframes ethix-marquee {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+.animate-marquee {
+  animation: ethix-marquee var(--marquee-duration, 38s) linear infinite;
+  will-change: transform;
+}
+
+@keyframes ethix-pulse-ring {
+  0% {
+    transform: scale(0.85);
+    opacity: 0.9;
+  }
+  70% {
+    transform: scale(2.1);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(2.1);
+    opacity: 0;
+  }
+}
+.animate-pulse-ring {
+  animation: ethix-pulse-ring 2.4s cubic-bezier(0.16, 1, 0.3, 1) infinite;
+}
+
+/* SVG variant of the pulse ring. `transform-box: fill-box` makes the scale
+   pivot on the circle's own centre instead of the SVG origin. */
+.svg-pulse {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: ethix-pulse-ring 2.4s cubic-bezier(0.16, 1, 0.3, 1) infinite;
+}
+
+@keyframes ethix-drift {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(0, -14px, 0) scale(1.04);
+  }
+}
+.animate-drift {
+  animation: ethix-drift 9s ease-in-out infinite;
+}
+
+/* ───────────────────── REDUCED MOTION ─────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+  .js-reveal [data-reveal] {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
