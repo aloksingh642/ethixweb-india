@@ -34,8 +34,9 @@ Thumbs.db
 # Vercel
 .vercel
 
-# Test / lighthouse artifacts
+# Test / lighthouse / audit artifacts
 .lighthouseci/
 .lighthouse/
 .qa/
 .qa-screens/
+.pix/
